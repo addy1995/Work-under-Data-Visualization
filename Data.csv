@@ -1,0 +1,1501 @@
+Alert ID,Issue Date,Disease,Latitude,Longitude,Location,Cases,Deaths,Rating
+1,1/9/2017 6:46:00,Cholera,-12.29529,17.54468,Angola,,,4
+2,1/9/2017 23:01:00,Cholera,-12.29529,17.54468,Angola,,,4
+3,1/9/2017 23:01:00,Cholera,36.519981,103.891769,China,,,4
+4,1/9/2017 22:19:00,Influenza,39.92889,116.388336,"Beijing, China",,,3
+5,1/9/2017 22:19:00,Avian Influenza H7N9,39.92889,116.388336,"Beijing, China",,,4
+6,1/9/2017 22:16:00,Avian Influenza H7N9,24.98778,118.498329,"Putian, Fujian Province, China",,,4
+7,1/9/2017 22:16:00,Influenza,24.98778,118.498329,"Putian, Fujian Province, China",,,3
+8,1/9/2017 22:07:00,Avian Influenza H7N9,32.9902,120.014603,"Jiangsu Province, China",,,4
+9,1/9/2017 21:43:00,Avian Influenza,38,102,"Gansu Province, China",,,3
+10,1/9/2017 21:33:00,Avian Influenza H7N9,36.519981,103.891769,China,,,4
+11,1/9/2017 21:33:00,Avian Influenza H7N9,28.001629,117.697197,"Jiujiang, Jiangxi Province, China",,,4
+12,1/9/2017 21:33:00,Avian Influenza,28.001629,117.697197,"Jiujiang, Jiangxi Province, China",,,3
+13,1/9/2017 21:12:00,Avian Influenza H7N9,27.9944,112.016602,"Hunan Province, China",,,4
+14,1/9/2017 21:12:00,Avian Influenza H7N9,27.9944,116.015602,"Jiangxi Province, China",,,4
+15,1/9/2017 21:12:00,Avian Influenza H7N9,26.25,105.933296,"Guizhou Province, China",,,4
+16,1/9/2017 20:29:00,Avian Influenza H7N9,32.9902,120.014603,"Jiangsu Province, China",,,5
+17,1/9/2017 20:29:00,Avian Influenza,32.9902,120.014603,"Jiangsu Province, China",,,4
+18,1/9/2017 2:52:00,Syphilis,36.098541,138.478607,Japan,,,3
+19,1/9/2017 2:52:00,Syphilis,38,102,"Gansu Province, China",,,3
+20,1/9/2017 21:43:00,Measles,-25.73497,134.489563,Australia,,,3
+21,1/9/2017 20:14:00,Campylobacter,56.5,-4,"Scotland, United Kingdom",,,3
+22,1/9/2017 22:22:00,Plague,-19.373381,46.706039,Madagascar,,,3
+23,1/9/2017 21:40:00,Not Yet Classified,53.17638,-8.15058,Ireland,,,1
+24,1/9/2017 19:18:00,Citrus Greening,37.250198,-119.750298,"California, United States",,,2
+25,1/9/2017 21:48:00,Avian Influenza,47.010201,-109.731499,"Montana, United States",,,3
+26,1/9/2017 19:04:00,Influenza,53.034599,-0.5604,"England, United Kingdom",,,3
+27,1/9/2017 21:47:00,Avian Influenza,-33.066151,-71.425682,"Las Palmas, Valparaíso, Chile",,,3
+28,1/9/2017 20:22:00,Measles,29.96702,69.385971,Pakistan,,,3
+29,1/9/2017 19:49:00,Hantavirus,-35.376438,-64.167732,Argentina,,,3
+30,1/9/2017 20:09:00,Avian Influenza H7N9,36.519981,103.891769,China,,,4
+31,1/9/2017 19:57:00,Avian Influenza H7N9,24.98778,118.498329,"Putian, Fujian Province, China",,,4
+32,1/9/2017 19:57:00,Influenza,24.98778,118.498329,"Putian, Fujian Province, China",,,3
+33,1/9/2017 19:56:00,Avian Influenza H7N9,32.9902,120.014603,"Jiangsu Province, China",,,4
+34,1/9/2017 19:51:00,Avian Influenza,27.9944,116.015602,"Jiangxi Province, China",,,3
+35,1/9/2017 19:44:00,Avian Influenza,23.1166,113.25,"Guangzhou, Guangdong Province, China",,,3
+36,1/9/2017 19:44:00,Avian Influenza H7N9,23.1166,113.25,"Guangzhou, Guangdong Province, China",,,4
+37,1/9/2017 19:09:00,Avian Influenza,23.1166,113.25,"Guangzhou, Guangdong Province, China",,,4
+38,1/9/2017 18:56:00,Avian Influenza H7N9,32.9902,120.014603,"Jiangsu Province, China",,,4
+39,1/9/2017 18:56:00,Avian Influenza,32.9902,120.014603,"Jiangsu Province, China",,,3
+40,1/9/2017 8:38:00,Cholera,-12.29529,17.54468,Angola,,,4
+41,1/9/2017 4:47:00,Avian Influenza,26.25,105.933296,"Guizhou Province, China",,,3
+42,1/8/2017 22:54:00,Avian Influenza H7N9,22.284,114.150002,Hong Kong,,,4
+43,1/8/2017 22:54:00,Avian Influenza,22.284,114.150002,Hong Kong,,,3
+44,1/8/2017 22:06:00,Syphilis,36.098541,138.478607,Japan,,,3
+45,1/8/2017 22:06:00,Syphilis,30.4865,102.4804,"Sichuan Province, China",,,3
+46,1/7/2017 4:45:00,Avian Influenza,46.564499,2.55195,France,,,3
+47,1/9/2017 15:29:00,Poisoning,61.94614,93.57769,Russia,,,3
+48,1/9/2017 18:09:00,Avian Influenza H5N2,47.263569,-109.224327,"Fergus County, Montana, United States",,,3
+49,1/9/2017 16:16:00,Influenza,64.000198,-150.000305,"Alaska, United States",,,3
+50,1/9/2017 17:59:00,Influenza,41.663937,-83.555214,"Toledo, Ohio, United States",,,3
+51,1/9/2017 17:59:00,Respiratory Syncytial Virus,41.663937,-83.555214,"Toledo, Ohio, United States",,,3
+52,1/9/2017 17:59:00,Fever,41.663937,-83.555214,"Toledo, Ohio, United States",,,3
+53,1/9/2017 17:46:00,Influenza,33.980869,-86.567368,"Blount County, Alabama, United States",,,3
+54,1/9/2017 17:46:00,Influenza,34.18343,-85.449959,"Cherokee County, Alabama, United States",,,3
+55,1/9/2017 17:46:00,Influenza,34.45977,-85.804138,"DeKalb County, Alabama, United States",,,3
+56,1/9/2017 17:46:00,Influenza,34.04525,-86.03476,"Etowah County, Alabama, United States",,,3
+57,1/9/2017 17:46:00,Influenza,33.266781,-86.666649,"Shelby County, Alabama, United States",,,3
+58,1/9/2017 17:46:00,Influenza,33.750381,-86.31665,"Saint Clair County, Alabama, United States",,,3
+59,1/9/2017 17:28:00,Avian Influenza H5N2,47.010201,-109.731499,"Montana, United States",1,,3
+60,1/9/2017 17:09:00,Influenza,42.358501,-71.059601,"Boston, Massachusetts, United States",,,3
+61,1/9/2017 17:00:00,Influenza,64.000198,-150.000305,"Alaska, United States",,,3
+62,1/9/2017 16:59:00,Influenza,42.300079,-83.016541,"Windsor, Ontario, Canada",,,3
+63,1/9/2017 16:59:00,Influenza H3N2,42.300079,-83.016541,"Windsor, Ontario, Canada",,,3
+64,1/9/2017 15:17:00,Influenza,34.500198,-111.500298,"Arizona, United States",900,,3
+65,1/9/2017 17:04:00,Plague,-19.373381,46.706039,Madagascar,,,3
+66,1/9/2017 17:31:00,Anthrax,11,78,"Tamil Nadu State, India",,,3
+67,1/9/2017 17:28:00,Equine Herpes Virus,31.0152,-92.0215,"Louisiana, United States",,,3
+68,1/9/2017 17:24:00,Avian Influenza H5N8,48.691002,9.141,Europe,,,1
+69,1/9/2017 17:24:00,Avian Influenza H5N8,44.947899,95.750374,Asia,,,1
+70,1/9/2017 10:26:00,Yellow Fever,-10.77311,-53.089821,Brazil,,,3
+71,1/9/2017 16:29:00,Influenza,41.523643,-90.577637,"Davenport, Iowa, United States",,,3
+72,1/9/2017 16:24:00,Respiratory Illness,48.376938,-89.255753,"Chartwell Isabella Retirement Residence, Thunder Bay, Ontario, Canada",,,3
+73,1/9/2017 16:21:00,Influenza,40.0107,-86.264702,"Indiana, United States",,1,3
+74,1/9/2017 14:37:00,Influenza,46.283192,-118.484421,"Walla Walla County, Washington, United States",,,3
+75,1/9/2017 14:28:00,Avian Influenza H5N8,53.284809,-3.82562,"Conwy, Wales, United Kingdom",1,,3
+76,1/9/2017 15:31:00,Influenza,46.335514,-79.499184,"North Bay Regional Health Centre, North Bay, Ontario, Canada",,,3
+77,1/9/2017 15:09:00,Chikungunya,26.460239,68.252312,"Layari, Sindh, Pakistan",,,3
+78,1/9/2017 13:51:00,Yellow Fever,-18,-44,"Minas Gerais, Brazil",,,3
+79,1/9/2017 14:01:00,Dengue,24.866667,67.050003,"Karachi, Sindh, Pakistan",,,3
+80,1/9/2017 11:41:00,Zika virus,-12.29529,17.54468,Angola,2,,3
+81,1/9/2017 11:41:00,Zika virus,-8.838333,13.234444,"Luanda, Luanda, Angola",1,,3
+82,1/9/2017 14:50:00,,-35.376438,-64.167732,Argentina,,,1
+83,1/9/2017 13:30:00,Dengue,-22,-49,"São Paulo, Brazil",,,3
+84,1/4/2017 11:41:00,Malaria,-10.77311,-53.089821,Brazil,,,3
+85,1/9/2017 13:32:00,Influenza,40.178799,-74.355499,"New Jersey, United States",,,3
+86,1/9/2017 13:32:00,Influenza H3N2,40.178799,-74.355499,"New Jersey, United States",,,3
+87,1/9/2017 13:31:00,Myiasis,24.743719,-81.416496,"National Key Deer Refuge, Big Pine Key, Florida, United States",,,3
+88,1/9/2017 13:27:00,Dengue,-16.255051,167.718155,Vanuatu,596,,3
+89,1/9/2017 13:25:00,Whooping Cough,38.236839,-95.734108,"Coffey County, Kansas, United States",1,,4
+90,1/9/2017 13:08:00,Measles,39.739155,-104.984703,"Denver, Colorado, United States",,,1
+91,1/9/2017 13:08:00,Measles,40.014984,-105.270546,"Boulder, Colorado, United States",,,1
+92,1/9/2017 12:42:00,Influenza,40.533371,-89.550102,"Tazewell County, Illinois, United States",,,3
+93,1/9/2017 12:42:00,Influenza,40.766701,-89.766769,"Peoria County, Illinois, United States",,,3
+94,1/9/2017 10:57:00,Influenza,45.560799,-94.162491,"Saint Cloud, Minnesota, United States",,,3
+95,1/9/2017 10:03:00,Influenza,46.195,-63.105499,"Prince Edward Island Province, Canada",,,3
+96,1/9/2017 5:38:00,Influenza,35.052662,-78.878357,"Fayetteville, North Carolina, United States",,,3
+97,1/8/2017 9:01:00,Waterborne Illness,31.2409,-99.2286,"Texas, United States",,,1
+98,1/9/2017 13:15:00,Avian Influenza H5N1,20.464006,72.854828,"Kadaiya, Daman and Diu 396210, India",,,3
+99,1/9/2017 12:19:00,Rabies,-13,-72.25,"Cusco, Peru",,,1
+100,1/9/2017 11:09:00,Zika virus,1.29162,103.808052,Singapore,458,,3
+101,1/9/2017 10:32:00,Influenza,40.22683,-3.64957,Spain,,,3
+102,1/9/2017 10:32:00,Influenza,42.588371,-5.609046,Castilla y Leon,,,3
+103,1/9/2017 10:32:00,Influenza,40.425259,-3.69063,"Madrid, Spain",,,3
+104,1/9/2017 10:32:00,Influenza,42,2,"Catalonia, Spain",,,3
+105,1/9/2017 6:29:00,Plague,-19.373381,46.706039,Madagascar,62,26,3
+106,1/9/2017 6:29:00,Plague,-20.833229,45.67112,"Befotaka, Madagascar",,,3
+107,1/9/2017 10:16:00,Meningitis,42.79578,12.07174,Italy,,,4
+108,1/9/2017 11:39:00,Avian Influenza H5N8,54.166668,-1.5,"North Yorkshire, England, United Kingdom",,,3
+109,1/9/2017 11:04:00,Norovirus,44.383453,-64.515465,"Bridgewater, Nova Scotia, Canada",,,3
+110,1/9/2017 8:58:00,Avian Influenza,52.756199,39.023399,"Lipetsk Oblast, Russia",,,3
+111,1/9/2017 8:50:00,Influenza,54.775299,21.533199,"Kaliningrad Oblast, Russia",,,1
+112,1/9/2017 7:51:00,Poisoning,52.294998,104.282204,"Irkutsk, Irkutsk Oblast, Russia",,,3
+113,1/9/2017 0:00:00,Dengue,2,103.5,"Johor, Malaysia",177,,3
+114,1/9/2017 0:00:00,Dengue,6,100.666672,"Kedah, Malaysia",25,,3
+115,1/9/2017 0:00:00,Dengue,5.33333,102,"Kelantan, Malaysia",104,,3
+116,1/9/2017 0:00:00,Dengue,2.25,102.25,"Melaka, Malaysia",73,,3
+117,1/9/2017 0:00:00,Dengue,2.75,102.166672,"Negeri Sembilan, Malaysia",42,,3
+118,1/9/2017 0:00:00,Dengue,3.5,102.75,"Pahang, Malaysia",64,,3
+119,1/9/2017 0:00:00,Dengue,4.801436,101.161736,"Perak, Malaysia",114,,3
+120,1/9/2017 0:00:00,Dengue,6.5,100.25,"Perlis, Malaysia",1,,3
+121,1/9/2017 0:00:00,Dengue,5.37677,100.258476,"Pulau Pinang, Malaysia",38,,3
+122,1/9/2017 0:00:00,Dengue,5.348619,117.131157,"Sabah, Malaysia",61,,3
+123,1/9/2017 0:00:00,Dengue,2.557428,113.001198,"Sarawak, Malaysia",42,,3
+124,1/9/2017 0:00:00,Dengue,3.509247,101.524803,"Selangor, Malaysia",947,,3
+125,1/9/2017 0:00:00,Dengue,5.093634,102.989616,"Terengganu, Malaysia",10,,3
+126,1/9/2017 0:00:00,Dengue,3.14309,101.686531,"Federal Territory of Kuala Lumpur, Malaysia",160,,3
+127,1/9/2017 0:00:00,Dengue,5.33333,115.199997,"Labuan, Malaysia",,,3
+128,1/9/2017 0:00:00,Dengue,2.925641,101.695442,"Federal Territory of Putrajaya, Malaysia",6,,3
+129,1/9/2017 0:00:00,Dengue,2.5746,113.191803,Malaysia,1864,,3
+130,1/4/2017 0:00:00,Avian Influenza,42.761379,25.23151,Bulgaria,,,3
+131,1/4/2017 0:00:00,Avian Influenza,42.761379,25.23151,Bulgaria,,,3
+132,1/4/2017 0:00:00,Avian Influenza,42.761379,25.23151,Bulgaria,,,3
+133,1/4/2017 0:00:00,Avian Influenza,42.761379,25.23151,Bulgaria,,,3
+134,1/4/2017 0:00:00,Avian Influenza,42.761379,25.23151,Bulgaria,,,3
+135,1/9/2017 10:56:00,Mumps,34.7416,-92.504898,"Arkansas, United States",2400,,3
+136,1/9/2017 10:27:00,Norovirus,52.049999,-2.716667,"Hereford, England, United Kingdom",,,3
+137,1/9/2017 10:27:00,Norovirus,52.22583,-2.74491,"Leominster, England, United Kingdom",,,3
+138,1/9/2017 10:22:00,Avian Influenza,51,-0.41667,"West Sussex, England, United Kingdom",,,1
+139,1/9/2017 10:16:00,Avian Influenza,33.048031,43.772129,Iraq,,,3
+140,1/9/2017 10:30:00,Avian Influenza,47.757881,17.883398,"Veľké Kosihy, Slovakia",,,3
+141,1/9/2017 10:26:00,Anthrax,-15,24,"Western Province, Western, Zambia",,,3
+142,1/9/2017 10:25:00,Cholera,-0.1,34.75,"Kisumu, Nyanza, Kenya",,,3
+143,1/9/2017 10:20:00,Anthrax,-13.95302,27.79825,Zambia,,,3
+144,1/5/2017 0:00:00,Avian Influenza,48.707531,19.49165,Slovakia,,,3
+145,1/9/2017 2:50:00,Dengue,27.332701,-101.997101,"Estado de Coahuila, Mexico",751,,3
+146,1/9/2017 9:35:00,Undiagnosed,26.33333,91.25,"Kamrup, Assam, India",,,3
+147,1/9/2017 8:16:00,Avian Influenza,49.10144,16.37752,"Ivancice, South Moravian, Czechia",,,3
+148,1/9/2017 8:24:00,Norovirus,23.873001,121.016998,Taiwan,,,3
+149,1/9/2017 8:24:00,Diarrhea,23.873001,121.016998,Taiwan,,,4
+150,1/9/2017 8:04:00,Diarrhea,23.873001,121.016998,Taiwan,679,,3
+151,1/9/2017 8:04:00,Norovirus,23.873001,121.016998,Taiwan,,,3
+152,1/9/2017 8:04:00,Diarrhea,25.08532,121.561501,"Taipei, Taiwan",,,3
+153,1/9/2017 7:23:00,Avian Influenza H7N9,24.98778,118.498329,"Putian, Fujian Province, China",,,4
+154,1/9/2017 6:53:00,Avian Influenza H7N9,32.9902,120.014603,"Jiangsu Province, China",83,25,4
+155,1/9/2017 6:53:00,HIV/AIDS,32.9902,120.014603,"Jiangsu Province, China",,,3
+156,1/9/2017 6:53:00,Tuberculosis,32.9902,120.014603,"Jiangsu Province, China",,,3
+157,1/9/2017 6:53:00,Hepatitis,32.9902,120.014603,"Jiangsu Province, China",,,3
+158,1/9/2017 6:53:00,Syphilis,32.9902,120.014603,"Jiangsu Province, China",,,3
+159,1/9/2017 6:53:00,Gonorrhea,32.9902,120.014603,"Jiangsu Province, China",,,3
+160,1/9/2017 6:53:00,Scarlet Fever,32.9902,120.014603,"Jiangsu Province, China",,,2
+161,1/9/2017 6:37:00,Diarrhea,23.873001,121.016998,Taiwan,679,,4
+162,1/9/2017 6:37:00,Norovirus,23.873001,121.016998,Taiwan,,,3
+163,1/9/2017 6:09:00,Avian Influenza H7N9,26.25,105.933296,"Guizhou Province, China",,,4
+164,1/9/2017 6:09:00,Avian Influenza,27.9944,116.015602,"Jiangxi Province, China",,,3
+165,1/9/2017 4:06:00,Zika virus,19.3318,-96.657799,"Estado de Veracruz, Mexico",1789,,3
+166,1/9/2017 4:06:00,Dengue,19.3318,-96.657799,"Estado de Veracruz, Mexico",1833,8,3
+167,1/9/2017 4:06:00,Zika virus,20.8382,-88.989304,"Estado de Yucatán, Mexico",819,,3
+168,1/9/2017 4:06:00,Zika virus,23.95046,-102.53289,Mexico,7475,,3
+169,1/9/2017 4:06:00,Dengue,20.323999,-103.667,"Estado de Jalisco, Mexico",1623,,3
+170,1/9/2017 4:06:00,Dengue,17.6649,-99.997597,"Estado de Guerrero, Mexico",1309,,3
+171,1/9/2017 4:06:00,Dengue,19.165899,-101.8433,"Estado de Michoacán, Mexico",,,3
+172,1/9/2017 4:06:00,Dengue,25.661301,-99.997597,"Estado de Nuevo León, Mexico",1373,,3
+173,1/9/2017 4:06:00,Chikungunya,19.3318,-96.657799,"Estado de Veracruz, Mexico",162,,3
+174,1/9/2017 4:06:00,Chikungunya,25.83333,-111.833328,"Baja California Sur, Mexico",210,,3
+175,1/9/2017 4:06:00,Chikungunya,23.95046,-102.53289,Mexico,757,,3
+176,1/9/2017 7:26:00,Avian Influenza H5N8,53.034599,-0.5604,"England, United Kingdom",,,1
+177,1/9/2017 6:43:00,Avian Influenza H7N9,36.519981,103.891769,China,,,5
+178,1/9/2017 7:00:00,Chikungunya,-7.25,-36.5,"Paraíba, Brazil",,,3
+179,1/9/2017 7:00:00,Dengue,-7.25,-36.5,"Paraíba, Brazil",,,3
+180,1/9/2017 6:46:00,Cholera,-12.29529,17.54468,Angola,,,4
+181,1/9/2017 6:42:00,Poisoning,56.992802,52.998001,"Udmurtia, Russia",,,1
+182,1/5/2017 0:00:00,Avian Influenza,49.742859,15.33841,Czech Republic,,,3
+183,1/9/2017 6:57:00,Other Plant Disease,51.727001,-86.704201,"Ontario Province, Canada",,,2
+184,1/6/2017 0:00:00,Avian Influenza,53.034599,-0.5604,"England, United Kingdom",,,3
+185,1/6/2017 0:00:00,Avian Influenza,54.5,-6.5,Northern Ireland,,,3
+186,1/9/2017 2:07:00,Sexually Transmitted Infection,37.266712,-93.350189,"Greene County, Missouri, United States",,,2
+187,1/9/2017 2:07:00,Gonorrhea,37.266712,-93.350189,"Greene County, Missouri, United States",,,3
+188,1/9/2017 2:07:00,Syphilis,37.266712,-93.350189,"Greene County, Missouri, United States",,,3
+189,1/9/2017 2:07:00,Chlamydia,37.266712,-93.350189,"Greene County, Missouri, United States",,,3
+190,1/5/2017 0:00:00,Avian Influenza,49.742859,15.33841,Czech Republic,,,3
+191,1/9/2017 4:15:00,Avian Influenza H7N9,25.831955,107.323074,"Pingtang, Qiannan, Guizhou, China",,,5
+192,1/9/2017 3:55:00,Typhoid,-28.998529,25.092541,South Africa,,,1
+193,1/9/2017 2:19:00,Avian Influenza H7N9,26.06596,107.118561,"Qiannan Buyi and Miao Autonomous Prefecture, Guizhou Province, China",,,4
+194,1/9/2017 2:02:00,Typhoid,-19.000099,29.87184,Zimbabwe,,,3
+195,1/9/2017 1:04:00,Emerald Ash Borer,41.508499,-99.755898,"Nebraska, United States",,,1
+196,1/9/2017 1:04:00,Emerald Ash Borer,41.25861,-95.93779,"Omaha, Nebraska, United States",,,1
+197,1/9/2017 1:04:00,Emerald Ash Borer,41.26194,-95.860832,"Council Bluffs, Iowa, United States",,,1
+198,1/8/2017 23:48:00,Poisoning,57.4212,106.303703,"Irkutsk Oblast, Russia",,,3
+199,1/8/2017 22:36:00,Influenza,61.94614,93.57769,Russia,,,1
+200,1/9/2017 2:53:00,Cholera,-0.1,34.75,"Kisumu, Nyanza, Kenya",,,1
+201,1/9/2017 2:49:00,Influenza,53.17638,-8.15058,Ireland,,,3
+202,1/9/2017 2:10:00,Influenza,32.7318,-83.496101,"Georgia, United States",,1,3
+203,1/9/2017 1:13:00,Waterborne Illness,39.50713,-119.646568,"Lockwood, Nevada, United States",,,1
+204,1/8/2017 22:24:00,Norovirus,-40.91222,172.970123,"Abel Tasman National Park, New Zealand",,,3
+205,1/9/2017 0:09:00,Avian Influenza,53.034599,-0.5604,"England, United Kingdom",,,1
+206,1/8/2017 20:28:00,Avian Influenza H5N2,23.873001,121.016998,Taiwan,,,3
+207,1/8/2017 21:29:00,Syphilis,36.098541,138.478607,Japan,4259,,3
+208,1/8/2017 21:30:00,Avian Influenza,20.396099,72.872299,"Daman and Diu Union Territory, India",,,3
+209,1/8/2017 21:01:00,Algae,-41.950001,175.649994,"Masterton, Wellington, New Zealand",,,1
+210,1/8/2017 23:38:00,Schmallenberg,53.17638,-8.15058,Ireland,,,1
+211,1/8/2017 23:32:00,Foodborne Illness,16.66667,81,"Krishna, Andhra Pradesh, India",,,1
+212,1/8/2017 23:32:00,Avian Influenza H5N1,20.5,84.416672,"Odisha, India",,,3
+213,1/8/2017 23:22:00,Not Yet Classified,-20.819719,-49.37944,"São José do Rio Preto, São Paulo, Brazil",,,1
+214,1/8/2017 23:22:00,Not Yet Classified,-21.452101,-49.302589,"Novo Horizonte, São Paulo, Brazil",,,1
+215,1/8/2017 23:12:00,Not Yet Classified,-18,-44,"Minas Gerais, Brazil",,,1
+216,1/8/2017 22:28:00,Gastroenteritis,57.4212,106.303703,"Irkutsk Oblast, Russia",,,1
+217,1/8/2017 21:58:00,Melioidosis,-25.73497,134.489563,Australia,,,1
+218,1/8/2017 13:34:00,Zika virus,13.7369,-88.866508,El Salvador,3836,,3
+219,1/8/2017 13:34:00,Other Human Disease,13.7369,-88.866508,El Salvador,4,,3
+220,1/8/2017 22:58:00,Not Yet Classified,-21.452101,-49.302589,"Novo Horizonte, São Paulo, Brazil",,,1
+221,1/8/2017 21:56:00,Waterborne Illness,45.133381,-73.999222,"Ormstown, Quebec, Canada",,,3
+222,1/8/2017 18:57:00,Waterborne Illness,45.160797,-93.234947,"Blaine, Minnesota, United States",,,1
+223,1/8/2017 19:03:00,Listeriosis,34.4884,-105.996101,"New Mexico, United States",,,1
+224,1/8/2017 19:03:00,Listeriosis,31.2409,-99.2286,"Texas, United States",,,1
+225,1/8/2017 19:03:00,Listeriosis,38.9935,-105.512703,"Colorado, United States",,,1
+226,1/8/2017 18:55:00,Avian Influenza H7N9,28.683331,115.883331,"Nanchang, Jiangxi Province, China",,,5
+227,1/8/2017 16:50:00,Adenovirus,54.470001,-2.0215,United Kingdom,,,3
+228,1/8/2017 19:07:00,Cholera,-12.29529,17.54468,Angola,,,4
+229,1/8/2017 18:21:00,Influenza,44.496498,-90,"Wisconsin, United States",,,3
+230,1/8/2017 19:26:00,MERS,24.122999,44.546249,Saudi Arabia,,,3
+231,1/8/2017 17:37:00,Not Yet Classified,51,40.5,"Voronezh Oblast, Russia",,,1
+232,1/8/2017 16:09:00,Malaria,15.12704,101.017357,Thailand,,,1
+233,1/8/2017 16:09:00,Dengue,14.9447,108.457001,Vietnam,,,1
+234,1/8/2017 16:09:00,Fever,14.9447,108.457001,Vietnam,,,1
+235,1/8/2017 16:09:00,Zika virus,14.9447,108.457001,Vietnam,,,1
+236,1/8/2017 16:09:00,MERS,14.9447,108.457001,Vietnam,,,1
+237,1/8/2017 16:09:00,Enterovirus,14.9447,108.457001,Vietnam,,,1
+238,1/8/2017 16:09:00,Influenza,14.9447,108.457001,Vietnam,,,1
+239,1/8/2017 17:38:00,Avian Influenza,21.274612,72.741684,"Kamrej, Gujarat, India",3,,3
+240,1/8/2017 18:19:00,Avian Influenza H7N9,27.9944,112.016602,"Hunan Province, China",,,3
+241,1/8/2017 18:16:00,Avian Influenza H5N1,20.752399,85.001404,"Odisha State, India",,,3
+242,1/8/2017 18:14:00,Animal Die-off,20.5,84.416672,"Odisha, India",,,1
+243,1/8/2017 14:39:00,Influenza,41.663937,-83.555214,"Toledo, Ohio, United States",,,3
+244,1/8/2017 17:51:00,Foodborne Illness,54.470001,-2.0215,United Kingdom,,,1
+245,1/8/2017 17:51:00,Foodborne Illness,53.034599,-0.5604,"England, United Kingdom",,,1
+246,1/8/2017 16:58:00,Malaria,7.12245,-66.169563,Venezuela,200000,,3
+247,1/8/2017 16:58:00,Diphtheria,7.12245,-66.169563,Venezuela,,,3
+248,1/8/2017 16:18:00,Avian Influenza H7N9,22.284,114.150002,Hong Kong,,,5
+249,1/8/2017 14:46:00,Avian Influenza H5N8,46.396671,15.66,"Pragersko, Slovenska Bistrica, Slovenia",,,3
+250,1/8/2017 15:00:00,Avian Influenza,22.284,114.150002,Hong Kong,,,4
+251,1/8/2017 15:00:00,Avian Influenza H7N9,27.9944,116.015602,"Jiangxi Province, China",,,4
+252,1/8/2017 15:00:00,Avian Influenza H7N9,31.2409,121.464798,"Shanghai, China",,,4
+253,1/8/2017 15:00:00,Avian Influenza H7N9,27.9944,112.016602,"Hunan Province, China",,,4
+254,1/8/2017 15:00:00,Avian Influenza H7N9,35.995701,119.003899,"Shandong Province, China",,,4
+255,1/8/2017 14:38:00,Other Animal Disease,42.79578,12.07174,Italy,,,1
+256,1/8/2017 14:33:00,Avian Influenza H7N9,36.519981,103.891769,China,,,3
+257,1/8/2017 13:46:00,Malaria,18.151421,-77.319008,Jamaica,2,,4
+258,1/8/2017 13:46:00,Malaria,7.95985,-1.2073,Ghana,,,4
+259,1/8/2017 13:34:00,Influenza,43.004601,-75.4981,"New York State, United States",6109,,3
+260,1/8/2017 13:33:00,Influenza,38.9935,-105.512703,"Colorado, United States",,,3
+261,1/8/2017 13:33:00,Influenza H3N2,38.9935,-105.512703,"Colorado, United States",,,3
+262,1/8/2017 12:52:00,Avian Influenza H5N8,50.655094,-2.60228,"Abbotsbury Swannery, Abbotsbury, United Kingdom",9,,4
+263,1/8/2017 11:32:00,Foodborne Illness,18.07859,78.676979,"Mirdoddi, Telangana, India",,,3
+264,1/8/2017 10:49:00,Influenza,44.618629,-79.803688,"Simcoe County, Ontario, Canada",5,,3
+265,1/8/2017 13:53:00,Dengue,24.122999,44.546249,Saudi Arabia,,,3
+266,1/8/2017 11:44:00,Polio,31,72,"Punjab, Pakistan",,,5
+267,1/8/2017 11:38:00,Avian Influenza H7N9,36.19278,117.656937,"Laiwu, Shandong Province, China",,,4
+268,1/8/2017 11:38:00,Avian Influenza H7N9,27.9944,116.015602,"Jiangxi Province, China",,,4
+269,1/8/2017 11:38:00,Avian Influenza H7N9,31.2409,121.464798,"Shanghai, China",,,4
+270,1/8/2017 11:38:00,Avian Influenza H7N9,27.833332,113.150002,"Zhuzhou, Hunan Province, China",,,4
+271,1/8/2017 11:41:00,Diarrhea,9.03333,-79.5,"San Miguelito, Panamá, Panama",,,3
+272,1/8/2017 12:17:00,Typhoid,-17.85417,31.058331,"Harare, Zimbabwe",,,3
+273,1/8/2017 12:12:00,Avian Influenza H7N9,27.9944,116.015602,"Jiangxi Province, China",,,5
+274,1/8/2017 12:12:00,Avian Influenza H7N9,27.83333,114.400002,"Yichun, Jiangxi Province, China",,,5
+275,1/7/2017 21:19:00,Avian Influenza H7N9,28.998501,120.014603,"Zhejiang Province, China",6,2,4
+276,1/7/2017 21:19:00,Influenza,28.998501,120.014603,"Zhejiang Province, China",,,3
+277,1/8/2017 10:07:00,Gastroenteritis,49.008999,43.989201,"Volgograd Oblast, Russia",,,1
+278,1/8/2017 11:04:00,Avian Influenza H7N9,27.9944,112.016602,"Hunan Province, China",,,3
+279,1/8/2017 0:00:00,Dengue,2,103.5,"Johor, Malaysia",10643,,3
+280,1/8/2017 0:00:00,Dengue,6,100.666672,"Kedah, Malaysia",993,,3
+281,1/8/2017 0:00:00,Dengue,5.33333,102,"Kelantan, Malaysia",6150,,3
+282,1/8/2017 0:00:00,Dengue,2.25,102.25,"Melaka, Malaysia",1985,,3
+283,1/8/2017 0:00:00,Dengue,2.75,102.166672,"Negeri Sembilan, Malaysia",2890,,3
+284,1/8/2017 0:00:00,Dengue,3.5,102.75,"Pahang, Malaysia",3049,,3
+285,1/8/2017 0:00:00,Dengue,4.801436,101.161736,"Perak, Malaysia",3769,,3
+286,1/8/2017 0:00:00,Dengue,6.5,100.25,"Perlis, Malaysia",182,,3
+287,1/8/2017 0:00:00,Dengue,5.37677,100.258476,"Pulau Pinang, Malaysia",2573,,3
+288,1/8/2017 0:00:00,Dengue,5.348619,117.131157,"Sabah, Malaysia",3663,,3
+289,1/8/2017 0:00:00,Dengue,2.557428,113.001198,"Sarawak, Malaysia",2773,,3
+290,1/8/2017 0:00:00,Dengue,3.509247,101.524803,"Selangor, Malaysia",51539,,3
+291,1/8/2017 0:00:00,Dengue,5.093634,102.989616,"Terengganu, Malaysia",2006,,3
+292,1/8/2017 0:00:00,Dengue,3.14309,101.686531,"Federal Territory of Kuala Lumpur, Malaysia",8120,,3
+293,1/8/2017 0:00:00,Dengue,5.33333,115.199997,"Labuan, Malaysia",13,,3
+294,1/8/2017 0:00:00,Dengue,2.925641,101.695442,"Federal Territory of Putrajaya, Malaysia",523,,3
+295,1/8/2017 0:00:00,Dengue,2.5746,113.191803,Malaysia,100871,,3
+296,1/7/2017 11:36:00,Diarrhea,-3.24746,-61.007881,"Manacapuru, Amazonas, Brazil",,,4
+297,1/8/2017 11:00:00,Respiratory Illness,48.376896,-89.289909,"Pinewood Court, Thunder Bay, Ontario, Canada",,,3
+298,1/8/2017 9:08:00,Avian Influenza H5N8,50.313999,-3.825,"South Devon, England, United Kingdom",,,1
+299,1/8/2017 9:08:00,Avian Influenza H5N8,53.034599,-0.5604,"England, United Kingdom",,,1
+300,1/8/2017 9:31:00,Mumps,47.487499,-120.4981,"Washington State, United States",147,,4
+301,1/8/2017 9:31:00,Mumps,47.616558,-117.367706,"Spokane County, Washington, United States",10,,4
+302,1/8/2017 4:34:00,Avian Influenza H5N2,23.749439,120.254723,"Mailiao Town, Yunlin County, Taiwan",,,4
+303,1/8/2017 7:23:00,Influenza H1N1,-9,-36,"Alagoas, Brazil",,12,4
+304,1/7/2017 19:48:00,Dengue,11,76.966667,"Coimbatore, Tamil Nadu, India",,,4
+305,1/8/2017 4:56:00,Poisoning,59.9333,30.333,"St. Petersburg, Leningrad Oblast, Russia",,,1
+306,1/8/2017 6:02:00,Influenza,41.25034,-77.899719,"Centre County, Pennsylvania, United States",223,,3
+307,1/8/2017 5:20:00,Dengue,-21.1775,-47.81028,"Ribeirão Preto, São Paulo, Brazil",,,3
+308,1/8/2017 5:20:00,Zika virus,-21.1775,-47.81028,"Ribeirão Preto, São Paulo, Brazil",,,3
+309,1/8/2017 5:20:00,Chikungunya,-21.1775,-47.81028,"Ribeirão Preto, São Paulo, Brazil",,,3
+310,1/8/2017 3:05:00,Waterborne Illness,37.891479,-81.162331,"Mount Hope, West Virginia, United States",,,1
+311,1/7/2017 23:29:00,Avian Influenza H7N9,31.2409,121.464798,"Shanghai, China",,,5
+312,1/7/2017 22:16:00,Rash,-17.616671,-149.449997,"Tahiti, French Polynesia",,,3
+313,1/7/2017 20:52:00,Waterborne Illness,-35.510849,138.771744,"Goolwa Beach, South Australia, Australia",,,1
+314,1/7/2017 23:54:00,Influenza,45.748459,4.84671,"Lyon, Rhône-Alpes, France",,13,3
+315,1/7/2017 23:22:00,Zika virus,-8.85838,13.23118,"Luanda Province, Angola",,,3
+316,1/7/2017 20:47:00,Equine Herpes Virus,29.954647,-90.075073,"New Orleans, Louisiana, United States",7,,4
+317,1/7/2017 22:27:00,Avian Influenza,-33.044998,-71.44944,"Quilpué, Valparaíso, Chile",,,3
+318,1/7/2017 21:39:00,Syphilis,36.098541,138.478607,Japan,4259,,3
+319,1/7/2017 19:18:00,Sexually Transmitted Infection,55.153702,-115.004898,"Alberta Province, Canada",,,2
+320,1/7/2017 19:18:00,Syphilis,55.153702,-115.004898,"Alberta Province, Canada",,,3
+321,1/7/2017 19:18:00,Gonorrhea,55.153702,-115.004898,"Alberta Province, Canada",,,3
+322,1/7/2017 21:32:00,Cholera,-6.1349,12.36894,"Soyo, Zaire, Angola",92,5,3
+323,1/7/2017 20:36:00,Pneumonia,33.6007,73.067902,"Rawalpindi, Punjab, Pakistan",,,3
+324,1/7/2017 20:36:00,H. influenzae,33.6007,73.067902,"Rawalpindi, Punjab, Pakistan",,,3
+325,1/7/2017 17:47:00,Listeriosis,35.603699,-78.969803,"North Carolina, United States",,,1
+326,1/7/2017 20:49:00,Diarrhea,-3.24746,-61.007881,"Manacapuru, Amazonas, Brazil",,,3
+327,1/7/2017 20:48:00,Zika virus,-12.29529,17.54468,Angola,2,,3
+328,1/7/2017 20:37:00,Salmonella,45.210121,-123.198723,"McMinnville, Oregon, United States",,,1
+329,1/7/2017 20:37:00,Typhoid,-17.85417,31.058331,"Harare, Zimbabwe",,,3
+330,1/7/2017 20:16:00,Influenza H3N2,39.60099,-8.06274,Portugal,,,4
+331,1/7/2017 20:16:00,Influenza,39.60099,-8.06274,Portugal,,11,4
+332,1/7/2017 20:15:00,Rabies,-24.955833,-53.455276,"Cascavel, Paraná, Brazil",,2,3
+333,1/7/2017 20:14:00,Dengue,15.97897,-23.967791,Cape Verde,3,,3
+334,1/7/2017 19:43:00,Melioidosis,-20,134,"Northern Territory, Australia",,,1
+335,1/7/2017 19:39:00,Hospital-Related Infection,24.122999,44.546249,Saudi Arabia,,,3
+336,1/7/2017 19:34:00,Vibrio vulnificus,28.1495,-81.650398,"Florida, United States",,,3
+337,1/7/2017 17:51:00,Influenza,41.849998,-87.650101,"Chicago, Illinois, United States",,,3
+338,1/7/2017 17:32:00,Whooping Cough,48.540932,-123.086021,"San Juan Island, Washington, United States",6,,4
+339,1/7/2017 16:30:00,Influenza,36.850121,-81.516502,"Smyth County, Virginia, United States",,,3
+340,1/7/2017 15:27:00,Anthrax,-15,24,"Western Province, Western, Zambia",,,5
+341,1/7/2017 15:27:00,Influenza,45.748459,4.84671,"Lyon, Rhône-Alpes, France",72,13,4
+342,1/7/2017 15:16:00,Dengue,23.95046,-102.53289,Mexico,17795,35,4
+343,1/7/2017 14:02:00,Cryptosporidium,45.523453,-122.676208,"Portland, Oregon, United States",,,1
+344,1/7/2017 15:14:00,Other Animal Disease,44.647831,10.92539,"Modena, Emilia-Romagna, Italy",,,1
+345,1/7/2017 15:14:00,Other Animal Disease,51.10656,10.39365,Germany,,,1
+346,1/7/2017 15:14:00,Other Animal Disease,50.642849,4.66399,Belgium,,,1
+347,1/7/2017 14:59:00,MERS,24.122999,44.546249,Saudi Arabia,,,3
+348,1/7/2017 12:19:00,Avian Influenza H5N8,12.585187,77.046227,"Maddur, Karnataka, India",,,3
+349,1/7/2017 10:21:00,Influenza,33.21484,-97.133064,"Denton, Texas, United States",,,3
+350,1/7/2017 13:46:00,Typhoid,-28.998529,25.092541,South Africa,,,3
+351,1/7/2017 13:46:00,Cholera,6.57123,20.482969,Central African Republic,,,3
+352,1/7/2017 13:46:00,Monkeypox,6.57123,20.482969,Central African Republic,,,3
+353,1/7/2017 13:31:00,Leishmaniasis,32.441441,43.515282,"Ain Al-Tamur District, Karbalāʼ, Iraq",,,3
+354,1/7/2017 13:24:00,Nipah/Hendra Virus,-33,146,"New South Wales, Australia",,,3
+355,1/7/2017 13:22:00,Rabies,18.251301,-66.501404,Puerto Rico,,,1
+356,1/7/2017 13:22:00,Rabies,18.251301,-66.501404,Puerto Rico,,,1
+357,1/7/2017 13:22:00,Rabies,20.38583,-72.333977,Caribbean,,,1
+358,1/7/2017 13:12:00,Equine Herpes Virus,29.954647,-90.075073,"New Orleans, Louisiana, United States",,,3
+359,1/7/2017 13:08:00,Nipah/Hendra Virus,-33,146,"New South Wales, Australia",,,3
+360,1/7/2017 13:06:00,Legionnaires',40.740929,-73.662628,"Garden City Park, New York, United States",,,3
+361,1/7/2017 13:04:00,Chikungunya,24.866667,67.050003,"Karachi, Sindh, Pakistan",,,3
+362,1/7/2017 11:55:00,Listeriosis,34.4884,-105.996101,"New Mexico, United States",,,1
+363,1/7/2017 10:18:00,Avian Influenza H7N9,36.519981,103.891769,China,,,5
+364,1/7/2017 10:18:00,Avian Influenza H7N9,27.833332,113.150002,"Zhuzhou, Hunan Province, China",1,,5
+365,1/7/2017 10:18:00,Avian Influenza H7N9,22.54554,114.068298,"Shenzhen, Guangdong Province, China",2,,5
+366,1/7/2017 10:27:00,Avian Influenza H7N9,27.9944,116.015602,"Jiangxi Province, China",,,5
+367,1/7/2017 10:27:00,Avian Influenza H7N9,28.683331,115.883331,"Nanchang, Jiangxi Province, China",,,5
+368,1/7/2017 10:27:00,Avian Influenza H7N9,28.001629,117.697197,"Jiujiang, Jiangxi Province, China",,,5
+369,1/7/2017 9:21:00,Avian Influenza H7N9,27.9944,112.016602,"Hunan Province, China",,,5
+370,1/7/2017 9:21:00,Avian Influenza H7N9,27.833332,113.150002,"Zhuzhou, Hunan Province, China",1,,5
+371,1/7/2017 9:26:00,Norovirus,28.683331,115.883331,"Nanchang, Jiangxi Province, China",31,,4
+372,1/7/2017 7:00:00,Sepsis,51.10656,10.39365,Germany,,,2
+373,1/7/2017 3:30:00,Norovirus,51.10656,10.39365,Germany,,,3
+374,1/7/2017 0:00:00,Dengue,2,103.5,"Johor, Malaysia",10643,,3
+375,1/7/2017 0:00:00,Dengue,6,100.666672,"Kedah, Malaysia",993,,3
+376,1/7/2017 0:00:00,Dengue,5.33333,102,"Kelantan, Malaysia",6150,,3
+377,1/7/2017 0:00:00,Dengue,2.25,102.25,"Melaka, Malaysia",1985,,3
+378,1/7/2017 0:00:00,Dengue,2.75,102.166672,"Negeri Sembilan, Malaysia",2890,,3
+379,1/7/2017 0:00:00,Dengue,3.5,102.75,"Pahang, Malaysia",3049,,3
+380,1/7/2017 0:00:00,Dengue,4.801436,101.161736,"Perak, Malaysia",3769,,3
+381,1/7/2017 0:00:00,Dengue,6.5,100.25,"Perlis, Malaysia",182,,3
+382,1/7/2017 0:00:00,Dengue,5.37677,100.258476,"Pulau Pinang, Malaysia",2573,,3
+383,1/7/2017 0:00:00,Dengue,5.348619,117.131157,"Sabah, Malaysia",3663,,3
+384,1/7/2017 0:00:00,Dengue,2.557428,113.001198,"Sarawak, Malaysia",2773,,3
+385,1/7/2017 0:00:00,Dengue,3.509247,101.524803,"Selangor, Malaysia",51539,,3
+386,1/7/2017 0:00:00,Dengue,5.093634,102.989616,"Terengganu, Malaysia",2006,,3
+387,1/7/2017 0:00:00,Dengue,3.14309,101.686531,"Federal Territory of Kuala Lumpur, Malaysia",8120,,3
+388,1/7/2017 0:00:00,Dengue,5.33333,115.199997,"Labuan, Malaysia",13,,3
+389,1/7/2017 0:00:00,Dengue,2.925641,101.695442,"Federal Territory of Putrajaya, Malaysia",523,,3
+390,1/7/2017 0:00:00,Dengue,2.5746,113.191803,Malaysia,100871,,3
+391,1/7/2017 10:20:00,Zika virus,3.90116,-73.073372,Colombia,,,3
+392,1/7/2017 10:20:00,Other Human Disease,3.90116,-73.073372,Colombia,77,,3
+393,1/7/2017 9:09:00,Avian Influenza H5N1,22.256701,84.814598,"Rourkela, Orissa, India",,,4
+394,1/7/2017 8:32:00,Gastroenteritis,16.187469,81.138878,"Machilipatnam, Andhra Pradesh, India",12,,4
+395,1/7/2017 8:35:00,Avian Influenza H5N1,22.116667,84.033333,"Sundargarh, Orissa, India",,,4
+396,1/7/2017 5:46:00,Avian Influenza H7N9,36.19278,117.656937,"Laiwu, Shandong Province, China",1,,5
+397,1/7/2017 6:37:00,African Swine Fever,51,40.5,"Voronezh Oblast, Russia",,,4
+398,1/7/2017 2:19:00,Influenza,46.583164,-122.401222,"Lewis County, Washington, United States",,,3
+399,1/7/2017 2:00:00,Conjunctivitis,2.75,32,"Gulu District, Uganda",,,2
+400,1/7/2017 1:00:00,Influenza,32.7318,-86.7481,"Alabama, United States",,,3
+401,1/7/2017 3:17:00,Cholera,-6.1349,12.36894,"Soyo, Zaire, Angola",92,5,4
+402,1/7/2017 0:10:00,Influenza,43.004601,-75.4981,"New York State, United States",,,3
+403,1/7/2017 0:10:00,Influenza,40.930099,-77.475601,"Pennsylvania, United States",,,3
+404,1/6/2017 21:51:00,Influenza,26.650345,-80.449776,"Palm Beach County, Florida, United States",,,3
+405,1/7/2017 1:06:00,Foot and Mouth,28.4,94.550003,"West Siang, Arunachal Pradesh, India",,,3
+406,1/6/2017 18:52:00,Dengue,-9.66583,-35.735279,"Maceió, Alagoas, Brazil",,,4
+407,1/6/2017 20:34:00,Influenza,38.233246,-121.951073,"Solano County, California, United States",,1,4
+408,1/6/2017 20:34:00,Influenza,36.250519,-121.251587,"Monterey County, California, United States",,1,4
+409,1/6/2017 20:34:00,Influenza,38.483238,-122.334419,"Napa County, California, United States",,1,4
+410,1/6/2017 23:53:00,Other Human Disease,16.25,-61.583401,"Région d'outre-mer de Guadeloupe, France",6,,3
+411,1/6/2017 23:53:00,Other Human Disease,-35.376438,-64.167732,Argentina,1,,3
+412,1/6/2017 23:53:00,Other Human Disease,-16.714609,-64.670929,Bolivia,14,,3
+413,1/6/2017 23:53:00,Other Human Disease,-10.77311,-53.089821,Brazil,2289,,3
+414,1/6/2017 23:53:00,Other Human Disease,15.97897,-23.967791,Cape Verde,9,,3
+415,1/6/2017 23:53:00,Other Human Disease,55.429001,-101.865303,Canada,2,,3
+416,1/6/2017 23:53:00,Other Human Disease,3.90116,-73.073372,Colombia,75,,3
+417,1/6/2017 23:53:00,Other Human Disease,9.9702,-84.187943,Costa Rica,2,,3
+418,1/6/2017 23:53:00,Other Human Disease,18.894449,-70.484627,Dominican Republic,22,,3
+419,1/6/2017 23:53:00,Other Human Disease,13.7369,-88.866508,El Salvador,4,,3
+420,1/6/2017 23:53:00,Other Human Disease,3.933889,-53.125782,French Guiana,16,,3
+421,1/6/2017 23:53:00,Other Human Disease,-15,-140,"French Polynesia, French Polynesia",8,,3
+422,1/6/2017 23:53:00,Other Human Disease,12.11293,-61.679379,Grenada,1,,3
+423,1/6/2017 23:53:00,Other Human Disease,15.70213,-90.356239,Guatemala,15,,3
+424,1/6/2017 23:53:00,Other Human Disease,18.94161,-72.679459,Haiti,1,,3
+425,1/6/2017 23:53:00,Other Human Disease,14.81922,-86.619141,Honduras,2,,3
+426,1/6/2017 23:53:00,Other Human Disease,7.64356,168.62677,Marshall Islands,1,,3
+427,1/6/2017 23:53:00,Other Human Disease,14.66667,-61,Martinique,18,,3
+428,1/6/2017 23:53:00,Other Human Disease,12.83991,-85.034782,Nicaragua,2,,3
+429,1/6/2017 23:53:00,Other Human Disease,8.50719,-80.102661,Panama,5,,3
+430,1/6/2017 23:53:00,Other Human Disease,-23.23621,-58.391022,Paraguay,2,,3
+431,1/6/2017 23:53:00,Other Human Disease,18.251301,-66.501404,Puerto Rico,10,,3
+432,1/6/2017 23:53:00,Other Human Disease,46.123562,14.82654,Slovenia,1,,3
+433,1/6/2017 23:53:00,Other Human Disease,40.22683,-3.64957,Spain,2,,3
+434,1/6/2017 23:53:00,Other Human Disease,4.12639,-55.911831,Suriname,2,,3
+435,1/6/2017 23:53:00,Other Human Disease,15.12704,101.017357,Thailand,2,,3
+436,1/6/2017 23:53:00,Other Human Disease,10.46864,-61.25317,Trinidad & Tobago,1,,3
+437,1/6/2017 23:53:00,Other Human Disease,39.96693,-97.556099,United States,39,,3
+438,1/6/2017 23:53:00,Other Human Disease,14.9447,108.457001,Vietnam,1,,3
+439,1/6/2017 23:21:00,Waterborne Illness,-37.822899,144.975494,"Melbourne, Victoria, Australia",,,1
+440,1/6/2017 23:09:00,Yellow Fever,-18,-44,"Minas Gerais, Brazil",12,5,4
+441,1/6/2017 22:29:00,Mumps,47.185379,-122.2929,"Puyallup, Washington, United States",1,,3
+442,1/6/2017 21:00:00,Zika virus,30.267151,-97.743057,"Austin, Texas, United States",,,3
+443,1/6/2017 21:00:00,Other Human Disease,30.267151,-97.743057,"Austin, Texas, United States",1,,3
+444,1/6/2017 20:28:00,Influenza,48.916515,-121.784584,"Whatcom County, Washington, United States",,,3
+445,1/6/2017 20:04:00,Influenza,38.549999,-122.901108,"Sonoma County, California, United States",,,3
+446,1/6/2017 19:08:00,Lyme Disease,51.966671,-8.58333,"Cork, Munster, Ireland",,,3
+447,1/6/2017 18:22:00,Influenza,40.930099,-77.475601,"Pennsylvania, United States",,,3
+448,1/6/2017 15:29:00,Syphilis,54.007702,-105.996101,"Saskatchewan Province, Canada",,,3
+449,1/6/2017 15:29:00,Gonorrhea,54.007702,-105.996101,"Saskatchewan Province, Canada",,,3
+450,1/6/2017 21:32:00,Yellow Fever,-18,-44,"Minas Gerais, Brazil",12,5,4
+451,1/6/2017 21:14:00,Yellow Fever,-19.790428,-42.139286,"Caratinga - Minas Gerais, Brazil",,,3
+452,1/6/2017 21:14:00,Yellow Fever,-18,-44,"Minas Gerais, Brazil",,,3
+453,1/6/2017 21:12:00,Influenza H1N1,26.84943,80.919724,"Lucknow, Uttar Pradesh, India",,,1
+454,1/6/2017 20:58:00,Influenza,35.603699,-78.969803,"North Carolina, United States",,7,3
+455,1/6/2017 20:19:00,Influenza H1N1,12.933333,79.133331,"Vellore, Tamil Nādu, India",,1,2
+456,1/6/2017 19:59:00,Norovirus,40.266727,-83.000183,"Delaware County, Ohio, United States",,,3
+457,1/6/2017 17:42:00,Meningitis,56.5,-2.966667,"Dundee, Scotland, United Kingdom",1,,4
+458,1/6/2017 19:46:00,Influenza,39.96693,-97.556099,United States,,,3
+459,1/6/2017 19:13:00,Avian Influenza H5N8,52.5,-6.66667,"County Wexford, Leinster, Ireland",,,4
+460,1/6/2017 16:30:00,Influenza,55.429001,-101.865303,Canada,,,3
+461,1/6/2017 18:40:00,Influenza,47.487499,-120.4981,"Washington State, United States",,24,3
+462,1/6/2017 17:49:00,Pests,-19,27.5,"Matabeleland North Province, Zimbabwe",,,2
+463,1/6/2017 17:18:00,Rabies,31.20023,-81.333153,"Sea Island, Georgia, United States",,,1
+464,1/6/2017 14:24:00,Citrus Greening,34.0522,-118.242798,"Los Angeles, California, United States",,,1
+465,1/6/2017 6:15:00,Whooping Cough,49.525791,-96.684509,"Steinbach, Manitoba, Canada",21,,3
+466,1/6/2017 17:32:00,Zika virus,15.70213,-90.356239,Guatemala,3121,,3
+467,1/6/2017 17:32:00,Other Human Disease,15.70213,-90.356239,Guatemala,36,,3
+468,1/6/2017 17:32:00,Guillain Barre,15.70213,-90.356239,Guatemala,4,,3
+469,1/6/2017 17:57:00,Norovirus,43.130341,-77.475548,"Penfield, New York, United States",35,,3
+470,1/6/2017 17:54:00,Influenza,40.930099,-77.475601,"Pennsylvania, United States",,,3
+471,1/6/2017 17:17:00,Influenza,47.010201,-109.731499,"Montana, United States",580,,3
+472,1/6/2017 17:17:00,Influenza,47.29995,-111.367462,"Cascade County, Montana, United States",,,3
+473,1/6/2017 17:17:00,Influenza,47.016594,-113.800934,"Missoula County, Montana, United States",,,3
+474,1/6/2017 17:17:00,Influenza,48.333298,-114.251244,"Flathead County, Montana, United States",,,3
+475,1/6/2017 17:17:00,Influenza,47.033279,-112.4842,"Lewis and Clark County, Montana, United States",,,3
+476,1/6/2017 15:38:00,Dengue,-35.376438,-64.167732,Argentina,,,3
+477,1/6/2017 15:38:00,Dengue,-31.867701,-59.02692,"Villaguay, Entre Rios, Argentina",1,,3
+478,1/6/2017 14:45:00,Dengue,-25.78056,-56.448608,"Villarrica, Guairá, Paraguay",4,,3
+479,1/6/2017 12:43:00,Dengue,-35.376438,-64.167732,Argentina,,,3
+480,1/6/2017 12:43:00,Dengue,-32,-59,"Entre Rios, Argentina",1,,3
+481,1/6/2017 17:44:00,Schmallenberg,53.17638,-8.15058,Ireland,,,1
+482,1/6/2017 17:37:00,Avian Influenza H7N9,24.8764,112.8405,"Guangdong Province, China",,,3
+483,1/6/2017 17:36:00,Dengue,2.5746,113.191803,Malaysia,,,3
+484,1/6/2017 17:34:00,Avian Influenza H7N9,22.284,114.150002,Hong Kong,,,3
+485,1/6/2017 16:47:00,Influenza,40.713902,-74.003998,"New York City, New York State, United States",,,3
+486,1/6/2017 16:47:00,Influenza,39.96693,-97.556099,United States,,,3
+487,1/6/2017 16:32:00,Chikungunya,26.112062,68.887901,"Sindh, Pakistan",399,,3
+488,1/6/2017 15:38:00,Influenza,42.597446,-85.915001,"Allegan, Michigan, United States",,,3
+489,1/6/2017 14:19:00,Influenza,32.7318,-83.496101,"Georgia, United States",,1,3
+490,1/6/2017 14:19:00,Influenza,33.687698,-80.595802,"South Carolina, United States",,4,3
+491,1/6/2017 14:00:00,Salmonella,45.210121,-123.198723,"McMinnville, Oregon, United States",5,,4
+492,1/6/2017 15:25:00,Dengue,-26.33333,-60.5,"Chaco Province, Argentina",3,,3
+493,1/6/2017 14:43:00,Gastroenteritis,49.499912,-115.768791,"Cranbrook, British Columbia, Canada",,,3
+494,1/6/2017 15:58:00,Measles,-33.870499,151.215805,"Sydney, New South Wales, Australia",,,3
+495,1/6/2017 15:58:00,Measles,45.813889,21.333105,"Timiș County, Romania",,,3
+496,1/6/2017 15:58:00,Measles,37.250198,-119.750298,"California, United States",,,3
+497,1/6/2017 14:36:00,Poisoning,49.01709,31.38711,Ukraine,,,3
+498,1/6/2017 12:05:00,Dengue,-20.288839,-50.558102,"Jales, São Paulo, Brazil",1854,,3
+499,1/6/2017 14:50:00,Avian Influenza H5N8,54.166668,-1.5,"North Yorkshire, England, United Kingdom",,,4
+500,1/6/2017 14:50:00,Avian Influenza H5N8,54.166668,-1.5,"North Yorkshire, England, United Kingdom",,,4
+501,1/6/2017 14:31:00,Influenza,46.225399,-94.658302,"Minnesota, United States",,,3
+502,1/6/2017 14:30:00,Influenza,43.916515,-122.834518,"Lane County, Oregon, United States",,7,3
+503,1/6/2017 13:53:00,Zika virus,30.333538,-97.800285,"Travis County, Texas, United States",20,,4
+504,1/6/2017 13:53:00,Other Human Disease,30.333538,-97.800285,"Travis County, Texas, United States",1,,4
+505,1/6/2017 13:53:00,Dengue,-13,-56,"Mato Grosso, Brazil",28367,,3
+506,1/6/2017 13:42:00,Avian Influenza H5N8,52,10,"Lower Saxony, Germany",,,3
+507,1/6/2017 13:20:00,Influenza,53.17638,-8.15058,Ireland,,7,3
+508,1/6/2017 11:41:00,Influenza,40.178799,-74.355499,"New Jersey, United States",,,3
+509,1/6/2017 11:41:00,Influenza,40.30011,-74.166252,"Monmouth County, New Jersey, United States",135,,3
+510,1/6/2017 11:41:00,Influenza,40.783436,-74.216255,"Essex County, New Jersey, United States",61,,3
+511,1/6/2017 11:41:00,Influenza,39.90012,-74.216255,"Ocean County, New Jersey, United States",50,,3
+512,1/6/2017 11:41:00,Influenza,40.933434,-74.049583,"Bergen County, New Jersey, United States",46,,3
+513,1/6/2017 11:41:00,Influenza,41.066799,-74.3657,"Passaic County, New Jersey, United States",34,,3
+514,1/6/2017 11:41:00,Influenza,40.833431,-74.532928,"Morris County, New Jersey, United States",33,,3
+515,1/6/2017 11:41:00,Influenza,40.71677,-74.066254,"Hudson County, New Jersey, United States",27,,3
+516,1/6/2017 11:41:00,Influenza,39.466782,-74.666267,"Atlantic County, New Jersey, United States",26,,3
+517,1/6/2017 11:41:00,Influenza,40.7001,-74.299591,"Union County, New Jersey, United States",16,,3
+518,1/6/2017 11:41:00,Influenza,39.783451,-74.966278,"Camden County, New Jersey, United States",15,,3
+519,1/6/2017 11:41:00,Influenza,40.383438,-74.882942,"Mercer County, New Jersey, United States",13,,3
+520,1/6/2017 11:41:00,Influenza,41.139462,-74.690231,"Sussex County, New Jersey, United States",13,,3
+521,1/6/2017 11:41:00,Influenza,39.733448,-75.132957,"Gloucester County, New Jersey, United States",11,,3
+522,1/6/2017 11:41:00,Influenza,40.566769,-74.932953,"Hunterdon County, New Jersey, United States",10,,3
+523,1/6/2017 11:41:00,Influenza,40.433441,-74.399597,"Middlesex County, New Jersey, United States",4,,3
+524,1/6/2017 11:41:00,Influenza,39.88345,-74.641266,"Burlington County, New Jersey, United States",3,,3
+525,1/6/2017 11:41:00,Influenza,39.150112,-74.782944,"Cape May County, New Jersey, United States",1,,3
+526,1/6/2017 10:40:00,Influenza,48.690899,-55.986401,"Newfoundland, Newfoundland and Labrador, Canada",30,,3
+527,1/6/2017 10:22:00,Influenza,38.627274,-90.197891,"Saint Louis, Missouri, United States",,,3
+528,1/6/2017 1:27:00,Zika virus,36.615501,127.726997,South Korea,17,,3
+529,1/6/2017 1:27:00,Zika virus,11.74183,122.878708,Philippines,,,3
+530,1/6/2017 13:19:00,Foodborne Illness,36.64344,37.124352,"Shamāriḩ, Aleppo, Syria",,,1
+531,1/6/2017 12:25:00,Dengue,15.97897,-23.967791,Cape Verde,,,3
+532,1/6/2017 12:28:00,Influenza,38.483238,-122.334419,"Napa County, California, United States",,1,3
+533,1/6/2017 12:23:00,Influenza H1N1,25.450001,81.849998,"Allahabad, Uttar Pradesh, India",,,2
+534,1/6/2017 9:57:00,Norovirus,54.583328,-2.83333,"Cumbria, England, United Kingdom",,,3
+535,1/6/2017 0:00:00,Influenza H3N2,42.907501,129.507782,"Yanji, Yanbian Korean Autonomous Prefecture, Jilin Province, China",6,,3
+536,1/6/2017 0:00:00,Influenza H3N2,37.566387,126.999725,"Seoul, South Korea",,,3
+537,1/6/2017 0:00:00,Influenza H3N2,35.133331,129.050003,"Busan, South Korea",,,3
+538,1/6/2017 4:31:00,Influenza H3N2,54.673801,-124.9366,"British Columbia Province, Canada",,,3
+539,1/6/2017 11:07:00,Leishmaniasis,-21.98667,-51.661064,"Santo Anastácio - São Paulo, Brazil",,,3
+540,1/3/2017 0:00:00,Avian Influenza,48.707531,19.49165,Slovakia,,,3
+541,1/6/2017 11:57:00,Sexually Transmitted Infection,51.966671,-8.58333,"Cork, Munster, Ireland",,,2
+542,1/6/2017 11:57:00,Gonorrhea,51.966671,-8.58333,"Cork, Munster, Ireland",,,3
+543,1/6/2017 11:57:00,Syphilis,51.966671,-8.58333,"Cork, Munster, Ireland",,,3
+544,1/6/2017 11:57:00,HIV/AIDS,51.966671,-8.58333,"Cork, Munster, Ireland",,,3
+545,1/6/2017 8:22:00,Measles,31.2409,-99.2286,"Texas, United States",,,1
+546,1/6/2017 9:37:00,Influenza,39.0606,35.179668,Turkey,,,3
+547,1/6/2017 11:20:00,Measles,13.83153,30.04995,Sudan,,,3
+548,1/6/2017 11:19:00,MERS,24.122999,44.546249,Saudi Arabia,,,3
+549,1/6/2017 11:08:00,Rabies,18.251301,-66.501404,Puerto Rico,,,1
+550,1/6/2017 10:29:00,Dengue,-9.66583,-35.735279,"Maceió, Alagoas, Brazil",4773,,3
+551,1/6/2017 10:29:00,Zika virus,-9.66583,-35.735279,"Maceió, Alagoas, Brazil",5982,,3
+552,1/6/2017 10:29:00,Chikungunya,-9.66583,-35.735279,"Maceió, Alagoas, Brazil",225,,3
+553,1/6/2017 10:29:00,Other Human Disease,-9.66583,-35.735279,"Maceió, Alagoas, Brazil",93,,3
+554,1/6/2017 0:00:00,Dengue,2,103.5,"Johor, Malaysia",10643,,3
+555,1/6/2017 0:00:00,Dengue,6,100.666672,"Kedah, Malaysia",993,,3
+556,1/6/2017 0:00:00,Dengue,5.33333,102,"Kelantan, Malaysia",6150,,3
+557,1/6/2017 0:00:00,Dengue,2.25,102.25,"Melaka, Malaysia",1985,,3
+558,1/6/2017 0:00:00,Dengue,2.75,102.166672,"Negeri Sembilan, Malaysia",2890,,3
+559,1/6/2017 0:00:00,Dengue,3.5,102.75,"Pahang, Malaysia",3049,,3
+560,1/6/2017 0:00:00,Dengue,4.801436,101.161736,"Perak, Malaysia",3769,,3
+561,1/6/2017 0:00:00,Dengue,6.5,100.25,"Perlis, Malaysia",182,,3
+562,1/6/2017 0:00:00,Dengue,5.37677,100.258476,"Pulau Pinang, Malaysia",2573,,3
+563,1/6/2017 0:00:00,Dengue,5.348619,117.131157,"Sabah, Malaysia",3663,,3
+564,1/6/2017 0:00:00,Dengue,2.557428,113.001198,"Sarawak, Malaysia",2773,,3
+565,1/6/2017 0:00:00,Dengue,3.509247,101.524803,"Selangor, Malaysia",51539,,3
+566,1/6/2017 0:00:00,Dengue,5.093634,102.989616,"Terengganu, Malaysia",2006,,3
+567,1/6/2017 0:00:00,Dengue,3.14309,101.686531,"Federal Territory of Kuala Lumpur, Malaysia",8120,,3
+568,1/6/2017 0:00:00,Dengue,5.33333,115.199997,"Labuan, Malaysia",13,,3
+569,1/6/2017 0:00:00,Dengue,2.925641,101.695442,"Federal Territory of Putrajaya, Malaysia",523,,3
+570,1/6/2017 0:00:00,Dengue,2.5746,113.191803,Malaysia,100871,,3
+571,1/6/2017 11:05:00,Foot and Mouth,30.966667,72.48333,"Toba Tek Singh, Punjab, Pakistan",,,3
+572,1/5/2017 0:00:00,Avian Influenza,42.79578,12.07174,Italy,,,3
+573,1/6/2017 10:43:00,Avian Influenza H5N8,49.10144,16.37752,"Ivancice, South Moravian, Czechia",,,1
+574,1/6/2017 10:43:00,Avian Influenza H5N8,54.470001,-2.0215,United Kingdom,,,1
+575,1/6/2017 10:43:00,Avian Influenza H5N8,46.564499,2.55195,France,,,1
+576,1/6/2017 10:43:00,Avian Influenza H5N8,42.761379,25.23151,Bulgaria,,,1
+577,1/6/2017 10:43:00,Avian Influenza H5N8,32.082272,34.81065,"Ramat Gan, Tel Aviv, Israel",,,1
+578,1/6/2017 10:43:00,Avian Influenza H5N8,51.778229,-4.16795,"Pontyberem, Wales, United Kingdom",,,1
+579,1/6/2017 10:40:00,Kyasanur Forest Disease,13.5,76,"Karnataka State, India",,,1
+580,1/4/2017 0:00:00,Avian Influenza,-37.852489,-72.373978,Chile,,,3
+581,1/6/2017 9:53:00,Influenza,47.487499,-120.4981,"Washington State, United States",,14,3
+582,1/6/2017 9:38:00,Norovirus,54.583328,-2.83333,"Cumbria, England, United Kingdom",,,3
+583,1/6/2017 8:43:00,Influenza,38.254238,-85.759407,"Louisville, Kentucky, United States",20,,4
+584,1/6/2017 8:14:00,Influenza,48.690899,-55.986401,"Newfoundland, Newfoundland and Labrador, Canada",23,,3
+585,1/6/2017 9:31:00,Dengue,21.62117,-79.036346,Cuba,,,1
+586,1/6/2017 7:09:00,Influenza,35.008362,-109.375656,"Apache County, Arizona, United States",10,,3
+587,1/6/2017 0:49:00,Influenza,48.049828,-121.717903,"Snohomish County, Washington, United States",,5,3
+588,1/6/2017 9:21:00,Dengue,7.190708,125.455338,"Davao City, Davao del Sur, Philippines",,,3
+589,1/6/2017 9:02:00,Influenza,39.60099,-8.06274,Portugal,,,3
+590,1/6/2017 9:02:00,Influenza H3N2,39.60099,-8.06274,Portugal,,,3
+591,1/6/2017 8:08:00,Dengue,-23.02639,-45.555279,"Taubaté, São Paulo, Brazil",,,3
+592,1/6/2017 8:08:00,Dengue,-23.17944,-45.88694,"São José dos Campos, São Paulo, Brazil",,,3
+593,1/6/2017 6:44:00,Foodborne Illness,43.666672,3.5,"Hérault, Languedoc-Roussillon, France",,,3
+594,1/6/2017 7:01:00,Influenza,41.266762,-73.316231,"Fairfield County, Connecticut, United States",47,,3
+595,1/6/2017 6:48:00,Avian Influenza H5N6,36.615501,127.726997,South Korea,,,1
+596,1/6/2017 6:48:00,Avian Influenza H5N6,36.098541,138.478607,Japan,,,1
+597,1/6/2017 6:48:00,Avian Influenza H5N6,12.71643,104.923981,Cambodia,,,1
+598,1/6/2017 5:02:00,Norovirus,-41.94928,172.691345,"Nelson Lakes National Park, New Zealand",,,3
+599,1/6/2017 7:54:00,Dengue,-5.656147,-48.118916,"Araguatins, Tocantins, Brazil",,,3
+600,1/6/2017 5:42:00,Dengue,-12,-48,"Goiás, Brazil",,,3
+601,1/6/2017 2:34:00,Influenza,39.60099,-8.06274,Portugal,,11,3
+602,1/6/2017 5:21:00,Influenza H3N2,48.049809,-123.834641,"Clallam County, Washington, United States",,,3
+603,1/6/2017 5:21:00,Influenza H3N2,47.616482,-123.08461,"Jefferson County, Washington, United States",,,3
+604,1/6/2017 6:05:00,Avian Influenza H7N9,28.001629,117.697197,"Jiujiang, Jiangxi Province, China",1,,5
+605,1/6/2017 6:05:00,Avian Influenza H7N9,27.9944,116.015602,"Jiangxi Province, China",,,5
+606,1/6/2017 5:08:00,Influenza,46.225399,-94.658302,"Minnesota, United States",,,3
+607,1/6/2017 4:11:00,Avian Influenza,48.25,26,"Chernivtsi Oblast, Ukraine",,,3
+608,1/6/2017 4:11:00,Avian Influenza,46.47747,30.73262,"Odesa Oblast, Ukraine",,,3
+609,1/6/2017 5:54:00,Dengue,-31.867701,-59.02692,"Villaguay, Entre Rios, Argentina",1,,3
+610,1/6/2017 4:28:00,Norovirus,53.370838,-3.09545,"Arrowe Park Hospital, England, United Kingdom",,,3
+611,1/6/2017 4:05:00,Influenza,40.930099,-77.475601,"Pennsylvania, United States",4546,9,3
+612,1/6/2017 4:05:00,Influenza,40.62534,-80.125061,"Allegheny County, Pennsylvania, United States",671,,3
+613,1/6/2017 4:05:00,Influenza,41.375359,-76.249931,"Luzerne County, Pennsylvania, United States",139,,3
+614,1/6/2017 4:05:00,Influenza,40.875366,-76.249939,"Schuylkill County, Pennsylvania, United States",58,,3
+615,1/6/2017 4:05:00,Influenza,41.125359,-75.674629,"Carbon County, Pennsylvania, United States",20,,3
+616,1/6/2017 3:41:00,Influenza H1N1,26.84943,80.919724,"Lucknow, Uttar Pradesh, India",,,2
+617,1/6/2017 3:12:00,Influenza,46.466515,-120.667847,"Yakima County, Washington, United States",,,3
+618,1/6/2017 2:26:00,Meningitis - Neisseria,-23.3221,143.964798,"Queensland, Australia",6,,4
+619,1/6/2017 2:21:00,Meningitis - Neisseria,-27.549999,151.96666,"Toowoomba, Queensland, Australia",1,,4
+620,1/6/2017 2:21:00,Meningitis - Neisseria,-23.3221,143.964798,"Queensland, Australia",6,,4
+621,1/6/2017 3:52:00,Avian Influenza H7N9,22.54554,114.068298,"Shenzhen, Guangdong Province, China",2,,5
+622,1/6/2017 3:36:00,Influenza,42.49276,-92.342957,"Waterloo, Iowa, United States",,,3
+623,1/5/2017 22:37:00,Chikungunya,28.22822,69.227753,"Malir, Sindh, Pakistan",399,,3
+624,1/6/2017 2:22:00,Influenza,39.60099,-8.06274,Portugal,,,3
+625,1/6/2017 1:18:00,Gastroenteritis,61.94614,93.57769,Russia,,,3
+626,1/6/2017 0:14:00,Influenza,45.331348,3.84802,"Craponne-sur-Arzon, Auvergne-Rhône-Alpes, France",13,,3
+627,1/6/2017 2:20:00,Typhoid,-19.000099,29.87184,Zimbabwe,,,4
+628,1/6/2017 1:09:00,Influenza,35.890518,14.44192,Malta,,,3
+629,1/5/2017 22:10:00,Influenza,32.7318,-86.7481,"Alabama, United States",,,3
+630,1/5/2017 19:54:00,Influenza,44.496498,-90,"Wisconsin, United States",,,3
+631,1/5/2017 19:54:00,Bronchitis/Bronchiolitis,44.496498,-90,"Wisconsin, United States",,,3
+632,1/5/2017 23:33:00,Rabies,37.36681,-78.816399,"Appomattox County, Virginia, United States",,,3
+633,1/5/2017 23:33:00,Rabies,37.30014,-79.566422,"Bedford County, Virginia, United States",,,3
+634,1/5/2017 23:33:00,Rabies,37.413754,-79.142242,"Lynchburg, Virginia, United States",,,3
+635,1/6/2017 0:20:00,Leptospirosis,18.894449,-70.484627,Dominican Republic,752,74,3
+636,1/6/2017 0:20:00,Cholera,18.894449,-70.484627,Dominican Republic,1154,27,3
+637,1/6/2017 0:20:00,Malaria,18.894449,-70.484627,Dominican Republic,740,2,3
+638,1/6/2017 0:20:00,Dengue,18.894449,-70.484627,Dominican Republic,6624,39,3
+639,1/6/2017 0:20:00,Whooping Cough,18.894449,-70.484627,Dominican Republic,,,3
+640,1/6/2017 0:20:00,Meningitis,18.894449,-70.484627,Dominican Republic,,,3
+641,1/6/2017 0:20:00,Tetanus,18.894449,-70.484627,Dominican Republic,43,15,3
+642,1/6/2017 0:20:00,Diphtheria,18.894449,-70.484627,Dominican Republic,,,3
+643,1/6/2017 0:20:00,Zika virus,18.894449,-70.484627,Dominican Republic,5241,,3
+644,1/6/2017 0:20:00,Other Human Disease,18.894449,-70.484627,Dominican Republic,22,,3
+645,1/6/2017 0:20:00,Guillain Barre,18.894449,-70.484627,Dominican Republic,281,,3
+646,1/5/2017 22:58:00,Whooping Cough,-41.283329,174.733337,"Karori, Wellington, New Zealand",15,,3
+647,1/5/2017 22:12:00,Nipah/Hendra Virus,-33,146,"New South Wales, Australia",,,4
+648,1/5/2017 22:37:00,Avian Influenza H7N9,22.284,114.150002,Hong Kong,3,2,5
+649,1/5/2017 22:02:00,Dengue,20.323999,-103.667,"Estado de Jalisco, Mexico",1990,,3
+650,1/5/2017 22:02:00,Zika virus,20.323999,-103.667,"Estado de Jalisco, Mexico",80,,3
+651,1/5/2017 23:16:00,Avian Influenza,-33.450001,-70.666664,"Santiago, Metropolitana de Santiago, Chile",,,3
+652,1/5/2017 16:28:00,Chikungunya,56.511002,47.988201,Mariy-El Republic,,,1
+653,1/5/2017 16:28:00,Zika virus,56.511002,47.988201,Mariy-El Republic,,,1
+654,1/5/2017 22:32:00,Respiratory Syncytial Virus,40.245899,-83.012703,"Ohio, United States",,,3
+655,1/5/2017 22:13:00,Influenza,47.487499,-120.4981,"Washington State, United States",,,3
+656,1/5/2017 21:05:00,Legionnaires',40.740929,-73.662628,"Garden City Park, New York, United States",,,1
+657,1/5/2017 20:23:00,Melioidosis,-20,134,"Northern Territory, Australia",17,1,3
+658,1/5/2017 22:54:00,Scabies,40.031078,-3.60246,"Aranjuez, Madrid, Spain",22,,3
+659,1/5/2017 22:54:00,Scabies,38.345173,-0.481489,"Alicante, Valencia, Spain",,,3
+660,1/5/2017 22:08:00,Hemorrhagic Fever,13.68835,75.245483,"Tirthahalli, Karnataka, India",,,3
+661,1/4/2017 23:00:00,Avian Influenza H7N9,22.284,114.150002,Hong Kong,,,3
+662,1/5/2017 8:24:00,Cholera,18.45389,-69.606438,"Boca Chica, Dominican Republic",1,2,3
+663,1/5/2017 21:26:00,Influenza,38.627274,-90.197891,"Saint Louis, Missouri, United States",,,3
+664,1/5/2017 20:53:00,Influenza,47.010201,-109.731499,"Montana, United States",540,,3
+665,1/5/2017 20:53:00,Influenza H3N2,47.010201,-109.731499,"Montana, United States",,,3
+666,1/5/2017 19:57:00,Influenza,30.086046,-94.101845,"Beaumont, Texas, United States",,,3
+667,1/5/2017 19:56:00,Waterborne Illness,37.780884,-90.421791,"Farmington, Missouri, United States",,,1
+668,1/5/2017 19:15:00,Influenza,39.4501,-78.033058,"Berkeley County, West Virginia, United States",,,3
+669,1/5/2017 16:19:00,Avian Influenza,-9.16376,-75.875633,Peru,,,3
+670,1/5/2017 16:19:00,Avian Influenza,-37.852489,-72.373978,Chile,,,3
+671,1/5/2017 21:23:00,Undiagnosed,47.487499,-120.4981,"Washington State, United States",,,3
+672,1/5/2017 21:16:00,Avian Influenza,-33.044998,-71.44944,"Quilpué, Valparaíso, Chile",,,3
+673,1/5/2017 21:09:00,Other Plant Disease,36.519981,103.891769,China,,,1
+674,1/5/2017 20:52:00,Gastroenteritis,22.54554,114.068298,"Shenzhen, Guangdong Province, China",,,4
+675,1/5/2017 20:52:00,Norovirus,22.54554,114.068298,"Shenzhen, Guangdong Province, China",,,3
+676,1/5/2017 20:26:00,Zika virus,11.74183,122.878708,Philippines,,,3
+677,1/5/2017 20:26:00,Zika virus,36.615501,127.726997,South Korea,17,,3
+678,1/5/2017 20:49:00,Influenza,47.616486,-122.667923,"Kitsap County, Washington, United States",,4,3
+679,1/5/2017 20:31:00,Avian Influenza H7N9,22.284,114.150002,Hong Kong,3,2,5
+680,1/5/2017 19:58:00,Rabies,31.738211,-99.947311,"Ballinger, Texas, United States",,,1
+681,1/5/2017 19:35:00,Influenza,47.487499,-120.4981,"Washington State, United States",,,3
+682,1/5/2017 18:51:00,Ross River Virus,-33,146,"New South Wales, Australia",34,,4
+683,1/5/2017 18:46:00,Influenza,37.988689,-84.477715,"Lexington, Kentucky, United States",,,3
+684,1/5/2017 18:37:00,Influenza,47.616558,-117.367706,"Spokane County, Washington, United States",,,3
+685,1/5/2017 17:46:00,Meningitis - Neisseria,-9,161,"Malaita Province, Malaita, Solomon Islands",,2,4
+686,1/5/2017 17:34:00,Avian Influenza H7N9,36.519981,103.891769,China,38,4,5
+687,1/5/2017 17:34:00,Avian Influenza H7N9,22.284,114.150002,Hong Kong,,,5
+688,1/5/2017 17:34:00,Avian Influenza H7N9,24.8764,112.8405,"Guangdong Province, China",,,5
+689,1/5/2017 17:34:00,Avian Influenza H7N9,27.9944,112.016602,"Hunan Province, China",,,5
+690,1/5/2017 16:44:00,Avian Influenza,48.707531,19.49165,Slovakia,,,3
+691,1/5/2017 19:30:00,Influenza,48.049828,-121.717903,"Snohomish County, Washington, United States",,5,3
+692,1/5/2017 19:30:00,Mumps,48.049828,-121.717903,"Snohomish County, Washington, United States",2,,4
+693,1/5/2017 19:18:00,Dengue,2.5746,113.191803,Malaysia,,,3
+694,1/5/2017 19:02:00,Influenza,53.17638,-8.15058,Ireland,,,3
+695,1/5/2017 16:41:00,Influenza,32.028172,-81.10041,"Candler Hospital, Savannah, Georgia, United States",,,3
+696,1/5/2017 16:41:00,Influenza,31.985001,-81.154999,"Saint Joseph's Hospital of Savannah, Savannah, Georgia, United States",,,3
+697,1/5/2017 19:21:00,MERS,24.122999,44.546249,Saudi Arabia,,,3
+698,1/5/2017 19:21:00,MERS,26.325991,43.974972,"Buraidah, Al-Qassim, Saudi Arabia",,,3
+699,1/5/2017 19:21:00,MERS,22.76605,46.219482,"Riyadh Province, Saudi Arabia",,,3
+700,1/5/2017 19:21:00,MERS,24.840399,39.320625,"Al Madinah Province, Saudi Arabia",,,3
+701,1/5/2017 19:18:00,Equine Herpes Virus,29.954647,-90.075073,"New Orleans, Louisiana, United States",,,3
+702,1/5/2017 17:01:00,Norovirus,51.10656,10.39365,Germany,,,3
+703,1/5/2017 18:08:00,Pests,-19.000099,29.87184,Zimbabwe,,,2
+704,1/5/2017 18:58:00,Chicken Pox,22.407482,113.976326,"Tuen Mun Hospital, Tsing Chung Koon Rd, New Territories, Hong Kong",,,1
+705,1/5/2017 17:41:00,Influenza H1N1,-10.77311,-53.089821,Brazil,10265,1982,3
+706,1/5/2017 17:59:00,Norovirus,38.204811,-92.829521,"Laurie Care Center, Lauria, Missouri, United States",,,3
+707,1/5/2017 17:43:00,Bovine TB,55.153702,-115.004898,"Alberta Province, Canada",,,4
+708,1/5/2017 17:43:00,Bovine TB,54.007702,-105.996101,"Saskatchewan Province, Canada",,,4
+709,1/5/2017 17:33:00,Influenza,43.644001,-114.191902,"Idaho, United States",,,3
+710,1/5/2017 17:11:00,Measles,34.733318,-120.034309,"Santa Barbara County, California, United States",,,4
+711,1/5/2017 17:08:00,Influenza,51.727001,-86.704201,"Ontario Province, Canada",,,3
+712,1/5/2017 17:08:00,Influenza H3N2,51.727001,-86.704201,"Ontario Province, Canada",,,3
+713,1/5/2017 17:05:00,Animal Die-off,44.504639,-65.916809,"Plympton, Nova Scotia, Canada",,,3
+714,1/5/2017 17:05:00,Undiagnosed,44.504639,-65.916809,"Plympton, Nova Scotia, Canada",,,3
+715,1/5/2017 16:29:00,Influenza,46.225399,-94.658302,"Minnesota, United States",,,3
+716,1/5/2017 16:15:00,Influenza,40.769279,-89.723778,"Peoria, Illinois, United States",,,3
+717,1/5/2017 17:41:00,Influenza H1N1,-10.77311,-53.089821,Brazil,10265,1982,3
+718,1/5/2017 16:13:00,Influenza,46.709702,-66.049896,"New Brunswick Province, Canada",,,3
+719,1/5/2017 15:49:00,Waterborne Illness,38.263699,-98.481499,"Kansas, United States",,,1
+720,1/5/2017 15:41:00,Influenza,47.466492,-121.817886,"King County, Washington, United States",,,3
+721,1/5/2017 15:18:00,Influenza,51.050098,-114.085297,"Calgary, Alberta, Canada",,,3
+722,1/5/2017 15:21:00,Influenza,38.050076,-84.449936,"Fayette County, Kentucky, United States",13,,3
+723,1/5/2017 14:27:00,Influenza,43.23341,-79.949638,"Hamilton, Ontario, Canada",,,3
+724,1/5/2017 14:21:00,Influenza,49.446701,-125.3321,"Vancouver Island, British Columbia, Canada",,,3
+725,1/5/2017 14:04:00,Influenza,47.616558,-117.367706,"Spokane County, Washington, United States",,,3
+726,1/5/2017 13:34:00,Influenza,37.988689,-84.477715,"Lexington, Kentucky, United States",,2,3
+727,1/5/2017 13:34:00,Influenza,38.050076,-84.449936,"Fayette County, Kentucky, United States",,,3
+728,1/5/2017 13:31:00,Influenza,47.487499,-120.4981,"Washington State, United States",,13,3
+729,1/5/2017 13:31:00,Influenza H3N2,47.487499,-120.4981,"Washington State, United States",,,3
+730,1/5/2017 12:31:00,Influenza,53.17638,-8.15058,Ireland,,,1
+731,1/5/2017 12:11:00,Influenza,47.487499,-120.4981,"Washington State, United States",,,3
+732,1/5/2017 12:11:00,Influenza,47.466492,-121.817886,"King County, Washington, United States",,8,3
+733,1/5/2017 12:11:00,Influenza,47.033157,-122.117889,"Pierce County, Washington, United States",,3,3
+734,1/5/2017 15:38:00,Influenza,50.666477,-120.319199,"Kamloops, British Columbia, Canada",,,3
+735,1/5/2017 15:27:00,Norovirus,45.133411,-76.149384,"Carleton Place, Ontario, Canada",,,3
+736,1/5/2017 15:13:00,Typhoid,-19.000099,29.87184,Zimbabwe,2200,9,4
+737,1/5/2017 15:13:00,Typhoid,-17.817778,31.044722,"Harare, Harare Province, Zimbabwe",126,,4
+738,1/5/2017 10:10:00,Emerald Ash Borer,40.383438,-74.882942,"Mercer County, New Jersey, United States",,,1
+739,1/5/2017 15:05:00,Cholera,15.90562,47.599972,Yemen,,,3
+740,1/3/2017 12:56:00,Foodborne Illness,18.066669,-63.066669,"Collectivité d'outre-mer de Saint Martin, France",,,3
+741,1/3/2017 0:00:00,Avian Influenza H5N8,49.201221,16.61339,"South Moravian, Czechia",1,,5
+742,1/5/2017 0:00:00,Avian Influenza H5N8,52.66988,15.31975,"Deszczno, Lubusz, Poland",1,,5
+743,1/5/2017 14:59:00,Influenza,55.153702,-115.004898,"Alberta Province, Canada",,13,3
+744,1/5/2017 14:32:00,Influenza,43.466797,-80.516388,"Waterloo, Ontario, Canada",,,3
+745,1/5/2017 14:02:00,Norovirus,53.333332,-3.083333,"Wirral, England, United Kingdom",,,3
+746,1/5/2017 11:02:00,Other Plant Disease,41.197659,-103.714951,"Kimball County, Nebraska, United States",,,3
+747,1/5/2017 11:02:00,Other Plant Disease,41.545971,-103.71048,"Banner County, Nebraska, United States",,,3
+748,1/5/2017 11:02:00,Other Plant Disease,42.233299,-103.083809,"Box Butte County, Nebraska, United States",,,3
+749,1/5/2017 11:02:00,Other Plant Disease,41.633308,-102.317139,"Garden County, Nebraska, United States",,,3
+750,1/5/2017 11:02:00,Other Plant Disease,42.829418,-102.999908,"Chadron, Nebraska, United States",,,3
+751,1/5/2017 14:25:00,Hepatitis C,56.5,-4,"Scotland, United Kingdom",,,3
+752,1/5/2017 14:24:00,Poisoning,35.222,-101.831299,"Amarillo, Texas, United States",,,1
+753,1/5/2017 14:22:00,Typhoid,-17.85417,31.058331,"Harare, Zimbabwe",,,3
+754,1/5/2017 0:00:00,Avian Influenza H5N8,60.25,20,"The Aaland Archipelago, AX.01, Åland",1,,5
+755,1/5/2017 13:50:00,Measles,34.42083,-119.698189,"Santa Barbara, California, United States",,,3
+756,1/5/2017 13:13:00,Norovirus,-41.94928,172.691345,"Nelson Lakes National Park, New Zealand",,,3
+757,1/5/2017 12:19:00,Influenza,54.949036,-7.734217,"Letterkenny, Co. Donegal, Ireland",,,3
+758,1/5/2017 1:03:00,Influenza,46.975368,-123.81572,"Aberdeen, Washington, United States",,,3
+759,1/5/2017 13:59:00,Hepatitis E,11.0297,20.2827,"Am Timan, Salamat, Chad",,,3
+760,1/5/2017 13:42:00,Avian Influenza H7N9,22.284,114.150002,Hong Kong,,,3
+761,1/5/2017 13:04:00,Avian Influenza H7N9,35.427502,119.455276,"Rizhao, Shandong Province, China",,1,5
+762,1/5/2017 12:44:00,Zika virus,39.96693,-97.556099,United States,,,3
+763,1/5/2017 12:44:00,Other Human Disease,39.96693,-97.556099,United States,41,,3
+764,1/5/2017 12:16:00,Zika virus,39.96693,-97.556099,United States,4835,,3
+765,1/5/2017 12:16:00,Guillain Barre,39.96693,-97.556099,United States,13,,3
+766,1/5/2017 12:16:00,Zika virus,-14.3334,-170.5,American Samoa [USA],115,,3
+767,1/5/2017 12:16:00,Zika virus,18.251301,-66.501404,Puerto Rico,34173,,3
+768,1/5/2017 12:16:00,Zika virus,17.727699,-64.775398,US Virgin Islands,864,,3
+769,1/5/2017 11:24:00,Rabies,27.166998,-82.333153,"Sarasota County, Florida, United States",,,1
+770,1/5/2017 10:06:00,Schmallenberg,53.17638,-8.15058,Ireland,,,3
+771,1/5/2017 10:06:00,Schmallenberg,51.8993,-8.2983,"County Cork,  Munster, Ireland",,1,3
+772,1/5/2017 10:06:00,Schmallenberg,53,-7.4,"County Laois, Leinster, Ireland",,1,3
+773,1/5/2017 12:05:00,Avian Influenza H7N9,35.995701,119.003899,"Shandong Province, China",,1,4
+774,1/5/2017 11:15:00,Zika virus,-8,-37,"Pernambuco, Brazil",,3,3
+775,1/5/2017 10:33:00,Respiratory Illness,-34.549999,-60.933331,"Junin, Buenos Aires, Argentina",,,3
+776,1/5/2017 11:29:00,Influenza,35.496399,-97.514702,"Oklahoma, United States",,3,4
+777,1/5/2017 11:29:00,Influenza,36.36676,-95.583588,"Rogers County, Oklahoma, United States",,3,4
+778,1/5/2017 9:31:00,Avian Influenza H5N8,52.5,-3.5,"Wales, United Kingdom",,,1
+779,1/5/2017 12:00:00,Avian Influenza,36.615501,127.726997,South Korea,,,3
+780,1/5/2017 12:00:00,Avian Influenza H5N6,36.615501,127.726997,South Korea,,,1
+781,1/5/2017 12:00:00,Meningitis - Neisseria,52.24926,5.60342,Netherlands,,,3
+782,1/5/2017 12:00:00,Gonorrhea,52.24926,5.60342,Netherlands,,,1
+783,1/5/2017 12:00:00,Avian Influenza,24.8764,112.8405,"Guangdong Province, China",,,3
+784,1/5/2017 12:00:00,Avian Influenza,26.494249,29.87196,Egypt,,,3
+785,1/5/2017 12:00:00,Dengue,-12.29529,17.54468,Angola,,,3
+786,1/5/2017 12:00:00,Dengue,-6,35,Tanzania,,,3
+787,1/5/2017 12:00:00,Dengue,36.098541,138.478607,Japan,,,3
+788,1/5/2017 0:00:00,Dengue,2,103.5,"Johor, Malaysia",10569,,3
+789,1/5/2017 0:00:00,Dengue,6,100.666672,"Kedah, Malaysia",984,,3
+790,1/5/2017 0:00:00,Dengue,5.33333,102,"Kelantan, Malaysia",6067,,3
+791,1/5/2017 0:00:00,Dengue,2.25,102.25,"Melaka, Malaysia",1962,,3
+792,1/5/2017 0:00:00,Dengue,2.75,102.166672,"Negeri Sembilan, Malaysia",2825,,3
+793,1/5/2017 0:00:00,Dengue,3.5,102.75,"Pahang, Malaysia",3021,,3
+794,1/5/2017 0:00:00,Dengue,4.801436,101.161736,"Perak, Malaysia",3711,,3
+795,1/5/2017 0:00:00,Dengue,6.5,100.25,"Perlis, Malaysia",180,,3
+796,1/5/2017 0:00:00,Dengue,5.37677,100.258476,"Pulau Pinang, Malaysia",2538,,3
+797,1/5/2017 0:00:00,Dengue,5.348619,117.131157,"Sabah, Malaysia",3629,,3
+798,1/5/2017 0:00:00,Dengue,2.557428,113.001198,"Sarawak, Malaysia",2729,,3
+799,1/5/2017 0:00:00,Dengue,3.509247,101.524803,"Selangor, Malaysia",50798,,3
+800,1/5/2017 0:00:00,Dengue,5.093634,102.989616,"Terengganu, Malaysia",1994,,3
+801,1/5/2017 0:00:00,Dengue,3.14309,101.686531,"Federal Territory of Kuala Lumpur, Malaysia",8019,,3
+802,1/5/2017 0:00:00,Dengue,5.33333,115.199997,"Labuan, Malaysia",13,,3
+803,1/5/2017 0:00:00,Dengue,2.925641,101.695442,"Federal Territory of Putrajaya, Malaysia",516,,3
+804,1/5/2017 0:00:00,Dengue,2.5746,113.191803,Malaysia,99555,,3
+805,1/5/2017 8:55:00,Equine Herpes Virus,29.954647,-90.075073,"New Orleans, Louisiana, United States",,,3
+806,1/5/2017 8:17:00,Influenza,29.209684,-99.786171,"Uvalde, Texas, United States",10,,3
+807,1/5/2017 8:11:00,Influenza,41.849998,-87.650101,"Chicago, Illinois, United States",,,3
+808,1/5/2017 8:11:00,Influenza H3N2,41.849998,-87.650101,"Chicago, Illinois, United States",,,3
+809,1/5/2017 6:36:00,Malaria,22.083332,82.150002,"Bilaspur, Chhattisgarh, India",,,3
+810,1/5/2017 3:16:00,Influenza H3N2,55.429001,-101.865303,Canada,,,3
+811,1/5/2017 8:56:00,Avian Influenza,47.592899,14.14019,Austria,,,1
+812,1/5/2017 8:22:00,Avian Influenza H7N9,35.995701,119.003899,"Shandong Province, China",,1,4
+813,1/5/2017 8:22:00,Avian Influenza H7N9,36.519981,103.891769,China,,3,4
+814,1/5/2017 8:34:00,Influenza,53.17638,-8.15058,Ireland,,,1
+815,1/5/2017 8:33:00,Avian Influenza H7N9,35.427502,119.455276,"Rizhao, Shandong Province, China",,,5
+816,1/5/2017 8:33:00,Avian Influenza H7N9,24.8764,112.8405,"Guangdong Province, China",,,5
+817,1/5/2017 6:16:00,HIV/AIDS,24.8764,112.8405,"Guangdong Province, China",427,111,4
+818,1/5/2017 6:16:00,Avian Influenza H7N9,24.8764,112.8405,"Guangdong Province, China",14,7,5
+819,1/5/2017 6:16:00,Avian Influenza H7N9,23.1166,113.25,"Guangzhou, Guangdong Province, China",3,,5
+820,1/5/2017 6:16:00,Avian Influenza H7N9,22.54554,114.068298,"Shenzhen, Guangdong Province, China",2,,5
+821,1/5/2017 6:16:00,Avian Influenza H7N9,23.048889,113.74472,"Dongguan, Guangdong Province, China",1,,5
+822,1/5/2017 6:16:00,Avian Influenza H7N9,21.322559,110.582909,"Zhongshan, Guangdong Province, China",1,,5
+823,1/5/2017 6:16:00,Avian Influenza H7N9,22.583332,113.083336,"Jiangmen, Guangdong Province, China",3,,5
+824,1/5/2017 6:16:00,Avian Influenza H7N9,23.047192,112.465088,"Zhaoqing, Guangdong Province, China",2,,5
+825,1/5/2017 6:16:00,Avian Influenza H7N9,23.52886,116.364159,"Jieyang, Guangdong Province, China",2,,5
+826,1/5/2017 6:16:00,Tuberculosis,24.8764,112.8405,"Guangdong Province, China",,,4
+827,1/5/2017 6:16:00,Hepatitis B,24.8764,112.8405,"Guangdong Province, China",,,4
+828,1/5/2017 6:16:00,Hepatitis C,24.8764,112.8405,"Guangdong Province, China",,,4
+829,1/5/2017 6:16:00,Syphilis,24.8764,112.8405,"Guangdong Province, China",,,4
+830,1/5/2017 6:16:00,Gonorrhea,24.8764,112.8405,"Guangdong Province, China",,,4
+831,1/5/2017 6:16:00,Diarrhea,24.8764,112.8405,"Guangdong Province, China",,,4
+832,1/5/2017 6:16:00,Influenza,24.8764,112.8405,"Guangdong Province, China",,,4
+833,1/5/2017 6:16:00,"Hand, Foot and Mouth Disease",24.8764,112.8405,"Guangdong Province, China",,,4
+834,1/5/2017 6:43:00,Dengue,-5.795,-35.209442,"Natal, Rio Grande do Norte, Brazil",,,4
+835,1/5/2017 6:43:00,Zika virus,-5.795,-35.209442,"Natal, Rio Grande do Norte, Brazil",,,4
+836,1/5/2017 6:43:00,Chikungunya,-5.795,-35.209442,"Natal, Rio Grande do Norte, Brazil",,,4
+837,1/4/2017 0:00:00,Avian Influenza H5N8,31.737127,34.725571,"Be'er Tuvia, Israel",1,,5
+838,1/4/2017 0:00:00,Avian Influenza H5N8,32.38126,34.877369,"Kefar Witqin, Central District, Israel",1,,5
+839,1/4/2017 0:00:00,Avian Influenza H5N8,31.766581,35.003712,"Naẖam, Jerusalem, Israel",1,,5
+840,1/4/2017 0:00:00,Avian Influenza H5N8,31.77227,34.720509,"H̱aẕor Ashdod, Southern District, Israel",1,,5
+841,1/4/2017 0:00:00,Avian Influenza H5N8,31.696859,34.72971,"Shafir, Southern District, Israel",1,,5
+842,1/4/2017 0:00:00,Avian Influenza H5N8,32.568485,34.940624,"Ma'ayan Tzvi, Israel",1,,5
+843,1/4/2017 0:00:00,Avian Influenza H5N8,31.70261,34.689968,"Masu'ot Itzhak, Israel",1,,5
+844,1/4/2017 0:00:00,Avian Influenza H5N8,31.762653,34.96693,"Tsor'a, Israel",1,,5
+845,1/5/2017 7:48:00,Avian Influenza,20.303368,85.814064,"Salia Sahi, Bhubaneswar, Odisha, India",,,4
+846,1/5/2017 7:45:00,Avian Influenza,53.17638,-8.15058,Ireland,,,3
+847,1/5/2017 7:39:00,Dengue,-23.23621,-58.391022,Paraguay,2,,3
+848,1/5/2017 4:08:00,Brucellosis,40.31012,21.65037,"Skiti, Kozani, West Macedonia, Greece",,,4
+849,1/5/2017 0:45:00,MERS,24.122999,44.546249,Saudi Arabia,1525,636,4
+850,1/4/2017 13:06:00,Emerald Ash Borer,41.523643,-90.577637,"Davenport, Iowa, United States",,,1
+851,1/3/2017 16:39:00,Influenza,43.083302,-93.266869,"Cerro Gordo County, Iowa, United States",1,,3
+852,1/4/2017 14:17:00,Zika virus,14.9447,108.457001,Vietnam,,,1
+853,1/4/2017 14:17:00,Zika virus,15.12704,101.017357,Thailand,,,1
+854,1/4/2017 14:17:00,Zika virus,18.94161,-72.679459,Haiti,,,1
+855,1/4/2017 14:17:00,Zika virus,18.894449,-70.484627,Dominican Republic,,,1
+856,1/4/2017 0:00:00,Avian Influenza H5N8,32.689999,35.196671,"Nahalal, Northern District, Israel",1,,5
+857,1/2/2017 0:00:00,Avian Influenza H5N8,48.25,26,"Chernivtsi Oblast, Ukraine",5,,3
+858,1/3/2017 0:00:00,Avian Influenza H5N8,51.778229,-4.16795,"Pontyberem, Wales, United Kingdom",1,,5
+859,1/3/2017 0:00:00,Avian Influenza H5N8,51.778229,-4.16795,"Pontyberem, Wales, United Kingdom",1,,5
+860,1/4/2017 0:00:00,Avian Influenza H5N8,52.317219,10.26111,"Landkreis Peine, Lower Saxony, Germany",1,,5
+861,1/4/2017 0:00:00,Avian Influenza H5N8,46.396671,15.66,"Pragersko, Slovenska Bistrica, Slovenia",1,,5
+862,1/5/2017 6:42:00,Measles,45.843609,24.969259,Romania,,,3
+863,1/5/2017 6:28:00,Pests,40.833431,-74.949623,"Warren County, New Jersey, United States",,,2
+864,1/5/2017 6:27:00,Influenza,53.17638,-8.15058,Ireland,,,3
+865,1/5/2017 6:20:00,Vibrio vulnificus,28.1495,-81.650398,"Florida, United States",46,10,4
+866,1/5/2017 6:17:00,Norovirus,54.894627,-2.956781,"Cumberland Infirmary, Carlisle, UK",,,3
+867,1/5/2017 3:13:00,"Hand, Foot and Mouth Disease",39.92889,116.388336,"Beijing, China",,,3
+868,1/5/2017 3:13:00,Scarlet Fever,39.92889,116.388336,"Beijing, China",,,3
+869,1/4/2017 0:00:00,Avian Influenza H5N8,52.583328,8.33333,"Diepholz, Lower Saxony, Germany",1,,5
+870,1/4/2017 0:00:00,Avian Influenza H5N8,53.066669,8.2,"Wardenburg, Lower Saxony, Germany",1,,5
+871,1/4/2017 0:00:00,Avian Influenza H5N8,53.016701,8.35,"Hatten, Lower Saxony, Germany",1,,5
+872,1/4/2017 0:00:00,Avian Influenza H5N8,52.908611,7.98639,"Landkreis Cloppenburg, Lower Saxony, Germany",1,,5
+873,1/4/2017 0:00:00,Avian Influenza H5N8,52.26667,10.53333,"Braunschweig, Lower Saxony, Germany",1,,5
+874,1/4/2017 0:00:00,Avian Influenza H5N8,52.459572,9.69269,"Hannover  Airport, Lower Saxony, Germany",1,,5
+875,1/5/2017 4:04:00,Dengue,-21.1775,-47.81028,"Ribeirão Preto, São Paulo, Brazil",,,3
+876,1/5/2017 4:04:00,Environmental,-21.1775,-47.81028,"Ribeirão Preto, São Paulo, Brazil",,,3
+877,1/5/2017 3:57:00,Influenza,45.899246,6.129384,"Annecy, Rhône-Alpes, France",,,3
+878,1/5/2017 3:57:00,Influenza,46.202217,6.145692,"Geneva, Geneva, Switzerland",,,3
+879,1/5/2017 4:39:00,Influenza,40.875366,-76.249939,"Schuylkill County, Pennsylvania, United States",,1,3
+880,1/5/2017 3:02:00,Influenza,44.496498,-90,"Wisconsin, United States",,,3
+881,1/5/2017 2:38:00,Meningitis - Neisseria,-16.92304,145.766251,"Cairns, Queensland, Australia",1,,5
+882,1/4/2017 14:53:00,Avian Influenza,42.761379,25.23151,Bulgaria,26,,4
+883,1/5/2017 4:02:00,Influenza,39.60099,-8.06274,Portugal,,,3
+884,1/5/2017 0:25:00,Norovirus,51.10656,10.39365,Germany,,,3
+885,1/3/2017 0:00:00,Avian Influenza H5N8,46.49028,19.74,"Kiskunmajsa, Bács-Kiskun, Hungary",1,,5
+886,1/3/2017 0:00:00,Avian Influenza H5N8,47.25,20.5,"Jász-Nagykun-Szolnok, Hungary",1,,5
+887,1/3/2017 0:00:00,Avian Influenza H5N8,46.5,19.41667,"Bacs-Kiskun, Hungary",1,,5
+888,1/3/2017 0:00:00,Avian Influenza H5N8,46.656269,20.272011,"Szentes, Csongrád, Hungary",1,,5
+889,1/3/2017 0:00:00,Avian Influenza H5N8,46.966671,21.6,"Biharugra, Bekes, Hungary",1,,5
+890,1/3/2017 0:00:00,Avian Influenza H5N8,46.75,21,"Bekes, Hungary",1,,5
+891,1/3/2017 0:00:00,Avian Influenza H5N8,47.416672,21.5,"Hajdú-Bihar, Hungary",1,,5
+892,1/3/2017 0:00:00,Avian Influenza H5N8,46.542339,19.863581,"Csengele, Csongrád, Hungary",1,,5
+893,1/5/2017 3:21:00,Meningitis - Neisseria,-23.3221,143.964798,"Queensland, Australia",5,,5
+894,1/5/2017 1:57:00,Zika virus,10.75,106.666664,"Hồ Chí Minh City, Vietnam",176,,5
+895,1/5/2017 1:57:00,Zika virus,10.8,106.716667,"Bình Thạnh District, Hồ Chí Minh City, Vietnam",36,,5
+896,1/5/2017 2:47:00,Cholera,-6.1349,12.36894,"Soyo, Zaire, Angola",28,4,3
+897,1/2/2017 0:00:00,Avian Influenza H5N8,43.626209,-0.28757,"Latrille, Nouvelle-Aquitaine, France",1,,5
+898,1/2/2017 0:00:00,Avian Influenza H5N8,43.40419,0.45366,"Sauviac, Occitania, France",1,,5
+899,1/2/2017 0:00:00,Avian Influenza H5N8,43.746868,-0.35493,"Renung, Nouvelle-Aquitaine, France",1,,5
+900,1/2/2017 0:00:00,Avian Influenza H5N8,43.800041,0.04311,"Manciet, Midi-Pyrénées, France",1,,5
+901,1/5/2017 0:07:00,Influenza,41.550049,-84.583282,"Williams County, Ohio, United States",,,3
+902,1/4/2017 14:48:00,Legionnaires',22.284,114.150002,Hong Kong,75,1,3
+903,1/4/2017 14:48:00,Influenza,22.284,114.150002,Hong Kong,,,3
+904,1/4/2017 14:48:00,Dengue,22.284,114.150002,Hong Kong,122,,3
+905,1/4/2017 14:48:00,"Hand, Foot and Mouth Disease",22.284,114.150002,Hong Kong,872,,3
+906,1/4/2017 14:48:00,HFM-Enterovirus71,22.284,114.150002,Hong Kong,37,,3
+907,1/3/2017 4:28:00,Zika virus,14.9447,108.457001,Vietnam,,,3
+908,1/3/2017 4:28:00,Zika virus,1.29162,103.808052,Singapore,456,,3
+909,1/3/2017 4:28:00,Zika virus,10.82302,106.629646,"Ho Chi Minh City, Vietnam",154,,3
+910,1/3/2017 4:28:00,Zika virus,11.74183,122.878708,Philippines,52,,3
+911,1/3/2017 4:28:00,Zika virus,25.901747,-97.497482,"Brownsville, Texas, United States",6,,3
+912,1/3/2017 4:28:00,Zika virus,30.050213,-98.033623,"Hays County, Texas, United States",1,,3
+913,1/4/2017 14:48:00,Lassa Fever,9.59396,8.10531,Nigeria,273,149,4
+914,1/3/2017 0:38:00,Dengue,22.88348,79.616203,India,,,3
+915,1/3/2017 0:38:00,Dengue,28.671301,77.211899,"National Capital Territory of Delhi, India",4393,10,3
+916,1/3/2017 0:38:00,Dengue,15.12704,101.017357,Thailand,60964,60,3
+917,1/4/2017 14:48:00,Trypanosomiasis,-10.77311,-53.089821,Brazil,,,3
+918,1/4/2017 14:48:00,Trypanosomiasis,0.034457,-51.066563,"Macapá, Amapá, Brazil",10,,3
+919,1/3/2017 0:00:00,Diarrhea,39.92889,116.388336,"Beijing, China",,,3
+920,1/3/2017 0:00:00,Influenza,39.92889,116.388336,"Beijing, China",,,3
+921,1/3/2017 0:00:00,Tuberculosis,39.92889,116.388336,"Beijing, China",,,3
+922,1/3/2017 0:00:00,Syphilis,39.92889,116.388336,"Beijing, China",,,3
+923,1/3/2017 0:00:00,"Hand, Foot and Mouth Disease",39.92889,116.388336,"Beijing, China",,,3
+924,1/3/2017 0:00:00,Norovirus,39.92889,116.388336,"Beijing, China",,,3
+925,1/3/2017 0:00:00,Gastroenteritis,39.92889,116.388336,"Beijing, China",,,3
+926,1/3/2017 0:00:00,Dysentery,39.92889,116.388336,"Beijing, China",,,3
+927,1/3/2017 0:00:00,Hepatitis,39.92889,116.388336,"Beijing, China",,,3
+928,1/3/2017 0:00:00,Scarlet Fever,39.92889,116.388336,"Beijing, China",,,2
+929,1/3/2017 0:38:00,Influenza,60.716099,8.7451,Norway,,,3
+930,1/3/2017 0:38:00,Influenza,62.789902,16.73975,Sweden,,,3
+931,1/3/2017 0:38:00,Influenza,39.60099,-8.06274,Portugal,,,3
+932,1/3/2017 0:38:00,Influenza,32.73946,54.197769,Iran,,,3
+933,1/3/2017 0:38:00,Influenza,7.60809,80.704727,Sri Lanka,,,3
+934,1/3/2017 0:38:00,Influenza,7.95985,-1.2073,Ghana,,,3
+935,1/3/2017 0:38:00,Influenza,31.883619,-6.31785,Morocco,,,3
+936,1/3/2017 0:38:00,Influenza,46.564499,2.55195,France,,4,3
+937,1/3/2017 0:38:00,Influenza H3N2,55.429001,-101.865303,Canada,,,3
+938,1/3/2017 0:38:00,Avian Influenza H7N2,40.714272,-74.005966,"New York, New York, United States",1,,3
+939,1/3/2017 0:38:00,Avian Influenza H7N2,40.714272,-74.005966,"New York, New York, United States",100,1,3
+940,1/4/2017 14:48:00,Avian Influenza,24.8764,112.8405,"Guangdong Province, China",,,3
+941,1/3/2017 0:38:00,Polio,29.96702,69.385971,Pakistan,19,,4
+942,1/3/2017 0:38:00,Polio,33.83881,66.026466,Afghanistan,12,,4
+943,1/3/2017 0:38:00,Polio,9.59396,8.10531,Nigeria,4,,4
+944,1/3/2017 0:38:00,Polio,18.502741,103.76329,Laos,3,,4
+945,1/3/2017 0:38:00,Legionnaires',52.24926,5.60342,Netherlands,,,3
+946,1/3/2017 0:38:00,Legionnaires',51.10656,10.39365,Germany,,,3
+947,1/3/2017 0:38:00,Legionnaires',54.470001,-2.0215,United Kingdom,,,3
+948,1/3/2017 0:38:00,Legionnaires',25.252222,55.279999,"Dubai, United Arab Emirates ",,,3
+949,1/4/2017 19:59:00,Dengue,-35.376438,-64.167732,Argentina,,,3
+950,1/4/2017 19:59:00,Dengue,-26.39992,-54.626812,"Eldorado, Misiones Province, Argentina",1,,3
+951,1/4/2017 19:59:00,Dengue,-27.367081,-55.89608,"Posadas, Misiones Province, Argentina",1,,3
+952,1/4/2017 19:59:00,Dengue,-26.937716,-54.434216,"Misiones Province, Argentina",2,,3
+953,1/4/2017 11:24:00,Influenza,46.916489,-122.817909,"Thurston County, Washington, United States",,,3
+954,1/4/2017 22:49:00,Other Animal Disease,-25.73497,134.489563,Australia,,,3
+955,1/4/2017 22:44:00,Avian Influenza H7N9,35.427502,119.455276,"Rizhao, Shandong Province, China",1,,5
+956,1/4/2017 23:10:00,Avian Influenza H5N1,23.033333,72.616669,"Ahmedabad, Gujarat, India",,,3
+957,1/4/2017 22:10:00,Influenza,39.92889,116.388336,"Beijing, China",,1,4
+958,1/4/2017 19:52:00,Influenza,47.466492,-121.817886,"King County, Washington, United States",,8,3
+959,1/4/2017 19:52:00,Influenza,47.606209,-122.332069,"Seattle, Washington, United States",,,3
+960,1/4/2017 19:32:00,Avian Influenza H5N8,52.124611,19.400881,Poland,,,3
+961,1/4/2017 19:32:00,Avian Influenza H5N8,52.200001,15.33333,"Lubuskie Province, Poland",,,3
+962,1/4/2017 17:01:00,Avian Influenza H7N9,21.322559,110.582909,"Zhongshan, Guangdong Province, China",2,,5
+963,1/4/2017 17:01:00,Avian Influenza,21.322559,110.582909,"Zhongshan, Guangdong Province, China",,,4
+964,1/4/2017 19:28:00,Chicken Pox,10.75,106.666664,"Hồ Chí Minh City, Vietnam",,,5
+965,1/4/2017 19:28:00,Chicken Pox,10.808082,106.647079,"Tân Bình District, Hồ Chí Minh City, Vietnam",,,5
+966,1/4/2017 19:28:00,Chicken Pox,10.737707,106.729637,"District 7, Hồ Chí Minh City, Vietnam",31,,5
+967,1/4/2017 23:01:00,Chikungunya,26.112062,68.887901,"Sindh, Pakistan",,,3
+968,1/4/2017 22:19:00,Avian Influenza H5N8,23.873001,121.016998,Taiwan,,,3
+969,1/4/2017 22:15:00,Measles,-33.870499,151.215805,"Sydney, New South Wales, Australia",,,4
+970,1/4/2017 22:15:00,Measles,-8.65,115.216667,"Denpasar, Bali, Indonesia",,,4
+971,1/4/2017 22:39:00,Yellow Fever,-22,-49,"Estado de São Paulo, São Paulo, Brazil",,1,4
+972,1/4/2017 22:39:00,Yellow Fever,-20.819719,-49.37944,"São José do Rio Preto, São Paulo, Brazil",,1,4
+973,1/4/2017 21:06:00,Dengue,-16.255051,167.718155,Vanuatu,66,,3
+974,1/4/2017 19:58:00,Gastroenteritis,46.860817,-96.715141,"Horizon Middle School, Moorhead, Minnesota, United States",7,,4
+975,1/4/2017 19:18:00,Influenza,40.533371,-89.550102,"Tazewell County, Illinois, United States",,,3
+976,1/4/2017 19:18:00,Influenza,40.766701,-89.766769,"Peoria County, Illinois, United States",,,3
+977,1/4/2017 19:05:00,Influenza,46.709702,-66.049896,"New Brunswick Province, Canada",,,3
+978,1/4/2017 20:05:00,Avian Influenza,46.396671,15.66,"Pragersko, Slovenska Bistrica, Slovenia",1,,4
+979,1/4/2017 19:03:00,Gonorrhea,62.789902,16.73975,Sweden,,,3
+980,1/4/2017 21:20:00,Yellow Fever,-21.1775,-47.81028,"Ribeirão Preto, São Paulo, Brazil",,1,3
+981,1/4/2017 20:09:00,Dengue,-15.77972,-47.929722,"Distrito Federal, Brazil",20000,,3
+982,1/4/2017 20:10:00,Influenza,49.099834,-117.702232,"Trail, British Columbia, Canada",,,3
+983,1/4/2017 20:10:00,Influenza,49.299839,-117.668938,"Castlegar, British Columbia, Canada",,,3
+984,1/4/2017 18:40:00,Influenza,47.466492,-121.817886,"King County, Washington, United States",,8,3
+985,1/4/2017 18:03:00,Meningitis - Neisseria,-31.861538,115.995682,"Bandyup Womens Prison, West Swan, Western Australia, Australia",1,,5
+986,1/4/2017 20:34:00,Other Animal Disease,70.663361,23.682091,"Hammerfest, Finnmark, Norway",,,1
+987,1/4/2017 17:03:00,Avian Influenza,46.564499,2.55195,France,,,4
+988,1/4/2017 19:31:00,Influenza,38.233246,-121.951073,"Solano County, California, United States",,1,4
+989,1/4/2017 14:50:00,Influenza,30.7418,76.783401,"Chandigarh Union Territory, India",,,3
+990,1/4/2017 19:14:00,Food-related toxin,22.284,114.150002,Hong Kong,,,1
+991,1/4/2017 18:52:00,Avian Influenza H5N8,46.564499,2.55195,France,,,3
+992,1/4/2017 18:52:00,Avian Influenza,49.742859,15.33841,Czech Republic,,,4
+993,1/4/2017 18:52:00,Avian Influenza,42.761379,25.23151,Bulgaria,,,4
+994,1/4/2017 18:52:00,Avian Influenza,49.742859,15.33841,Czech Republic,,,4
+995,1/4/2017 18:52:00,Avian Influenza H5N8,42.761379,25.23151,Bulgaria,,,3
+996,1/4/2017 18:52:00,Avian Influenza H5N8,51.10656,10.39365,Germany,,,3
+997,1/4/2017 18:52:00,Avian Influenza H5N8,53.17638,-8.15058,Ireland,,,3
+998,1/4/2017 18:52:00,Avian Influenza H5N8,48.707531,19.49165,Slovakia,,,3
+999,1/4/2017 18:52:00,Avian Influenza H5N8,30.921,34.865101,Israel,,,3
+1000,1/4/2017 18:34:00,Dengue,-21,-55,"Mato Grosso do Sul, Brazil",,,3
+1001,1/4/2017 18:34:00,Dengue,-10.5,-37.5,"Sergipe, Brazil",,,3
+1002,1/4/2017 16:34:00,Avian Influenza H5N8,46.564499,2.55195,France,,,4
+1003,1/4/2017 16:34:00,Avian Influenza H5N8,43,0.16667,"Hautes-Pyrénées, Midi-Pyrénées, France",,,4
+1004,1/4/2017 16:34:00,Avian Influenza H5N8,43.666672,0.5,"Gers, Midi-Pyrénées, France",,,4
+1005,1/4/2017 16:34:00,Avian Influenza H5N8,44.25,-1,"Landes, Aquitaine, France",,,4
+1006,1/4/2017 18:03:00,Other Human Disease,-13,-56,"Mato Grosso, Brazil",56,,3
+1007,1/4/2017 2:04:00,Cryptosporidium,-25.73497,134.489563,Australia,,,4
+1008,1/4/2017 2:04:00,Cryptosporidium,-33,146,"New South Wales, Australia",,,4
+1009,1/4/2017 18:34:00,Avian Influenza,23.033333,72.616669,"Ahmedabad, Gujarat, India",,,3
+1010,1/4/2017 18:22:00,Avian Influenza H5N8,12.302635,76.663574,"Mysore Zoo, Mysuru, Karnataka, India",,,3
+1011,1/4/2017 17:12:00,Dengue,-10.5,-37.5,"Sergipe, Brazil",,,3
+1012,1/4/2017 17:12:00,Chikungunya,-10.5,-37.5,"Sergipe, Brazil",164,,3
+1013,1/4/2017 10:45:00,Malaria,-18.241787,-43.603504,"Diamantina, Minas Gerais, Brazil",6,,4
+1014,1/4/2017 17:56:00,Influenza,32.7318,-83.496101,"Georgia, United States",,,3
+1015,1/4/2017 17:33:00,Avian Influenza H5N1,23.033333,72.616669,"Ahmedabad, Gujarat, India",,,3
+1016,1/4/2017 17:18:00,Avian Influenza,-32.75,-71.333328,"Región de Valparaíso, Chile",,,4
+1017,1/4/2017 17:13:00,Influenza,33.033379,-116.800858,"San Diego County, California, United States",881,5,3
+1018,1/4/2017 17:08:00,Influenza,45.523453,-122.676208,"Portland, Oregon, United States",,,3
+1019,1/4/2017 17:01:00,Influenza,40.0107,-89.252998,"Illinois, United States",,,3
+1020,1/4/2017 16:20:00,Leishmaniasis,-22.125561,-51.388889,"Presidente Prudente, São Paulo, Brazil",1,,3
+1021,1/4/2017 8:59:00,Malaria,38.921371,-9.0322,"Vila Franca de Xira, Lisbon, Portugal",1,,3
+1022,1/4/2017 14:48:00,Avian Influenza H5N8,46.564499,2.55195,France,,,4
+1023,1/4/2017 16:51:00,Influenza,35.111214,-120.601967,"Arroyo Grande Care Center, Arroyo Grande, California, United States",30,2,3
+1024,1/4/2017 16:20:00,Influenza,47.487499,-120.4981,"Washington State, United States",,9,4
+1025,1/4/2017 16:20:00,Influenza,48.049828,-121.717903,"Snohomish County, Washington, United States",,,4
+1026,1/4/2017 16:20:00,Influenza,46.916489,-122.817909,"Thurston County, Washington, United States",,,4
+1027,1/4/2017 16:20:00,Influenza,47.466492,-121.817886,"King County, Washington, United States",,,4
+1028,1/4/2017 16:00:00,Influenza,47.466492,-121.817886,"King County, Washington, United States",,,3
+1029,1/4/2017 15:12:00,Kyasanur Forest Disease,13.68835,75.245483,"Tirthahalli, Karnataka, India",8,,1
+1030,1/4/2017 16:50:00,Avian Influenza,-33.044998,-71.44944,"Quilpué, Valparaíso, Chile",,,4
+1031,1/4/2017 14:00:00,Dengue,-23.23621,-58.391022,Paraguay,2548,,3
+1032,1/4/2017 14:00:00,Chikungunya,-23.23621,-58.391022,Paraguay,38,,3
+1033,1/4/2017 14:00:00,Zika virus,-23.23621,-58.391022,Paraguay,8,,3
+1034,1/4/2017 14:00:00,Other Human Disease,-23.23621,-58.391022,Paraguay,2,,3
+1035,1/4/2017 14:00:00,Zika virus,-25.933331,-55.783329,"Amambay, Caazapá, Paraguay",1,,3
+1036,1/4/2017 14:00:00,Zika virus,-25.620831,-57.147221,"Paraguarí, Paraguarí, Paraguay",1,,3
+1037,1/4/2017 14:00:00,Zika virus,-25.607555,-54.961185,"Alto Parana, Paraguay",1,,3
+1038,1/4/2017 14:00:00,Zika virus,-25.26667,-57.666672,"Asunción, Paraguay",3,,3
+1039,1/4/2017 14:00:00,Guillain Barre,-23.23621,-58.391022,Paraguay,83,,3
+1040,1/4/2017 15:59:00,Influenza,27.733639,-97.633606,"Nueces County, Texas, United States",,,3
+1041,1/4/2017 15:48:00,Influenza,41.026485,-73.628464,"Greenwich, Connecticut, United States",,,3
+1042,1/4/2017 13:06:00,Emerald Ash Borer,41.523643,-90.577637,"Davenport, Iowa, United States",,,1
+1043,1/4/2017 9:30:00,Chicken Pox,22.407482,113.976326,"Tuen Mun Hospital, Tsing Chung Koon Rd, New Territories, Hong Kong",1,,2
+1044,1/4/2017 14:20:00,Measles,27.66477,68.362167,"Naudero, Sindh, Pakistan",,3,3
+1045,1/4/2017 14:02:00,Zika virus,-13,-56,"Mato Grosso, Brazil",,,3
+1046,1/4/2017 14:02:00,Other Human Disease,-13,-56,"Mato Grosso, Brazil",56,,3
+1047,1/4/2017 13:54:00,Avian Influenza H5N8,51.731041,-2.37888,"Slimbridge, England, United Kingdom",,,3
+1048,1/4/2017 12:38:00,Influenza,43.992802,-120.4981,"Oregon, United States",,,3
+1049,1/4/2017 9:24:00,Avian Influenza H5N8,23.666668,120.333336,"Yunlin County, Taiwan",,,3
+1050,1/4/2017 12:57:00,Avian Influenza,42.761379,25.23151,Bulgaria,,,3
+1051,1/4/2017 12:57:00,Avian Influenza,51.10656,10.39365,Germany,,,3
+1052,1/4/2017 12:57:00,Avian Influenza,46.564499,2.55195,France,,,3
+1053,1/4/2017 12:57:00,Avian Influenza,53.17638,-8.15058,Ireland,,,3
+1054,1/4/2017 12:57:00,Avian Influenza,30.921,34.865101,Israel,,,3
+1055,1/4/2017 12:51:00,Norovirus,52.231659,0.70917,"West Suffolk Hospitals NHS Trust, England, United Kingdom",,,3
+1056,1/4/2017 12:49:00,Avian Influenza,53.166668,-0.25,"Lincolnshire, England, United Kingdom",,,4
+1057,1/4/2017 12:40:00,Avian Influenza H5N8,46.564499,2.55195,France,,,4
+1058,1/4/2017 12:24:00,Listeriosis,28.1495,-81.650398,"Florida, United States",,,4
+1059,1/4/2017 12:24:00,Listeriosis,32.7318,-83.496101,"Georgia, United States",,,4
+1060,1/4/2017 12:24:00,Listeriosis,32.7318,-86.7481,"Alabama, United States",,,4
+1061,1/4/2017 12:24:00,Listeriosis,33.687698,-80.595802,"South Carolina, United States",,,4
+1062,1/4/2017 12:24:00,Listeriosis,35.746498,-86.264702,"Tennessee, United States",,,4
+1063,1/4/2017 12:24:00,Listeriosis,35.603699,-78.969803,"North Carolina, United States",,,4
+1064,1/4/2017 11:25:00,Influenza,47.487499,-120.4981,"Washington State, United States",,,3
+1065,1/4/2017 11:25:00,Influenza,47.466492,-121.817886,"King County, Washington, United States",,,3
+1066,1/4/2017 11:25:00,Influenza,48.049828,-121.717903,"Snohomish County, Washington, United States",,,3
+1067,1/4/2017 11:09:00,Polio,5.18502,8.13314,"Odukpani, Cross River, Nigeria",,,5
+1068,1/4/2017 9:32:00,MRSA,33.990841,-118.460083,"Venice, California, United States",,,4
+1069,1/4/2017 10:05:00,Not Yet Classified,43.867039,20.899031,Serbia,,,2
+1070,1/4/2017 12:03:00,Dengue,26.112062,68.887901,"Sindh, Pakistan",,,3
+1071,1/4/2017 12:03:00,Diphtheria,47.592899,14.14019,Austria,,,3
+1072,1/4/2017 11:56:00,Avian Influenza H5N8,54.470001,-2.0215,United Kingdom,,,4
+1073,1/4/2017 11:50:00,Influenza,55.0028,-96.987396,"Manitoba Province, Canada",,,3
+1074,1/4/2017 10:50:00,Avian Influenza H5N8,46.123562,14.82654,Slovenia,,,3
+1075,1/4/2017 11:48:00,Avian Influenza H5N1,26.494249,29.87196,Egypt,,,3
+1076,1/4/2017 11:19:00,Polio,30.187222,67.012497,"Quetta, Balochistān, Pakistan",,,3
+1077,1/4/2017 0:00:00,Dengue,2,103.5,"Johor, Malaysia",10569,,3
+1078,1/4/2017 0:00:00,Dengue,6,100.666672,"Kedah, Malaysia",984,,3
+1079,1/4/2017 0:00:00,Dengue,5.33333,102,"Kelantan, Malaysia",6067,,3
+1080,1/4/2017 0:00:00,Dengue,2.25,102.25,"Melaka, Malaysia",1962,,3
+1081,1/4/2017 0:00:00,Dengue,2.75,102.166672,"Negeri Sembilan, Malaysia",2825,,3
+1082,1/4/2017 0:00:00,Dengue,3.5,102.75,"Pahang, Malaysia",3021,,3
+1083,1/4/2017 0:00:00,Dengue,4.801436,101.161736,"Perak, Malaysia",3711,,3
+1084,1/4/2017 0:00:00,Dengue,6.5,100.25,"Perlis, Malaysia",180,,3
+1085,1/4/2017 0:00:00,Dengue,5.37677,100.258476,"Pulau Pinang, Malaysia",2538,,3
+1086,1/4/2017 0:00:00,Dengue,5.348619,117.131157,"Sabah, Malaysia",3629,,3
+1087,1/4/2017 0:00:00,Dengue,2.557428,113.001198,"Sarawak, Malaysia",2729,,3
+1088,1/4/2017 0:00:00,Dengue,3.509247,101.524803,"Selangor, Malaysia",50798,,3
+1089,1/4/2017 0:00:00,Dengue,5.093634,102.989616,"Terengganu, Malaysia",1994,,3
+1090,1/4/2017 0:00:00,Dengue,3.14309,101.686531,"Federal Territory of Kuala Lumpur, Malaysia",8019,,3
+1091,1/4/2017 0:00:00,Dengue,5.33333,115.199997,"Labuan, Malaysia",13,,3
+1092,1/4/2017 0:00:00,Dengue,2.925641,101.695442,"Federal Territory of Putrajaya, Malaysia",516,,3
+1093,1/4/2017 0:00:00,Dengue,2.5746,113.191803,Malaysia,99555,,3
+1094,1/4/2017 9:20:00,Avian Influenza,42.761379,25.23151,Bulgaria,,,4
+1095,1/4/2017 9:20:00,Avian Influenza H5N8,42.150002,24.75,"Plovdiv, Plovdiv, Bulgaria",,,3
+1096,1/4/2017 9:20:00,Avian Influenza,42.761379,25.23151,Bulgaria,,,4
+1097,1/4/2017 7:05:00,Avian Influenza,23.67737,120.478699,"Dounan Town, Yunlin County, Taiwan",,,4
+1098,1/4/2017 9:16:00,Avian Influenza H5N8,49.742859,15.33841,Czech Republic,,,5
+1099,1/4/2017 8:13:00,Dengue,12.27793,-1.74014,Burkina Faso,,,3
+1100,1/4/2017 7:56:00,Malaria,50,36.25,"Kharkiv, Kharkiv Oblast, Ukraine",,,3
+1101,1/4/2017 10:45:00,Malaria,-18.241787,-43.603504,"Diamantina, Minas Gerais, Brazil",6,,3
+1102,1/4/2017 10:52:00,Zika virus,26.46701,-97.633598,"Willacy County, Texas, United States",,,3
+1103,1/4/2017 10:51:00,Influenza,35.045879,33.22176,Cyprus,,,3
+1104,1/4/2017 10:51:00,Gastroenteritis,35.045879,33.22176,Cyprus,,,3
+1105,1/4/2017 10:14:00,Mumps,31.2409,-99.2286,"Texas, United States",,,3
+1106,1/4/2017 10:14:00,Mumps,35.496399,-97.514702,"Oklahoma, United States",,,3
+1107,1/4/2017 10:14:00,Mumps,34.7416,-92.504898,"Arkansas, United States",,,3
+1108,1/4/2017 10:05:00,Avian Influenza H7N9,24.8764,112.8405,"Guangdong Province, China",,,5
+1109,1/4/2017 10:05:00,Avian Influenza H7N9,22.284,114.150002,Hong Kong,3,,5
+1110,1/4/2017 9:02:00,Avian Influenza,42.761379,25.23151,Bulgaria,,,3
+1111,1/4/2017 8:48:00,Listeriosis,51.10656,10.39365,Germany,,,1
+1112,1/4/2017 10:15:00,Avian Influenza H7N9,26.25,105.933296,"Guizhou Province, China",1,,3
+1113,1/4/2017 7:33:00,Influenza,46.564499,2.55195,France,,,3
+1114,1/4/2017 7:33:00,Influenza,44.759628,4.562443,"Ardeche, France",,,3
+1115,1/4/2017 9:15:00,Influenza,41.672901,-72.6856,"Connecticut, United States",,,3
+1116,1/4/2017 9:11:00,Equine Herpes Virus,29.954647,-90.075073,"New Orleans, Louisiana, United States",5,,4
+1117,1/4/2017 7:39:00,Influenza,39.96693,-97.556099,United States,,,3
+1118,1/4/2017 1:13:00,Dengue,-22.564541,-47.40041,"Limeira - São Paulo, Brazil",,,3
+1119,1/4/2017 7:51:00,Influenza,50.642849,4.66399,Belgium,,,3
+1120,1/4/2017 8:54:00,Influenza,44.496498,-90,"Wisconsin, United States",,,3
+1121,1/4/2017 8:54:00,Influenza,45.416618,-91.850166,"Barron County, Wisconsin, United States",,,3
+1122,1/4/2017 8:53:00,Chikungunya,-22.902781,-43.2075,"Rio de Janeiro, Rio de Janeiro State, Brazil",,,1
+1123,1/4/2017 8:39:00,Influenza,37.648998,-78.3545,"Virginia, United States",,,3
+1124,1/4/2017 8:39:00,Influenza,35.603699,-78.969803,"North Carolina, United States",,,3
+1125,1/4/2017 8:17:00,Avian Influenza H5N8,51.778229,-4.16795,"Pontyberem, Wales, United Kingdom",,,3
+1126,1/4/2017 8:13:00,Meningitis - Neisseria,-27.5,153.016602,"Brisbane, Queensland, Australia",4,,5
+1127,1/4/2017 8:04:00,Plague,43.644001,-114.191902,"Idaho, United States",,,3
+1128,1/4/2017 8:00:00,Meningitis - Neisseria,-27.5,153.016602,"Brisbane, Queensland, Australia",,,1
+1129,1/4/2017 4:16:00,Rabies,-9.16376,-75.875633,Peru,,,3
+1130,1/4/2017 5:58:00,Influenza,46.802502,8.23439,Switzerland,,,3
+1131,1/4/2017 7:26:00,Influenza,55.963402,10.0463,Denmark,,,3
+1132,1/4/2017 7:26:00,Influenza H3N2,55.963402,10.0463,Denmark,,,3
+1133,1/4/2017 7:10:00,Mumps,34.7416,-92.504898,"Arkansas, United States",,,3
+1134,1/4/2017 6:32:00,"Hand, Foot and Mouth Disease",36.098541,138.478607,Japan,,,3
+1135,1/4/2017 4:35:00,Emerald Ash Borer,37.65004,-92.600166,"Laclede County, Missouri, United States",,,1
+1136,1/4/2017 2:05:00,Zika virus,17.727699,-64.775398,US Virgin Islands,,,3
+1137,1/4/2017 3:45:00,Avian Influenza,49.742859,15.33841,Czech Republic,,,4
+1138,1/4/2017 6:42:00,Influenza,49.01709,31.38711,Ukraine,,,1
+1139,1/2/2017 0:00:00,Avian Influenza H5N8,50.340511,20.516008,"Czarnocin, Poland",1,,5
+1140,1/4/2017 6:43:00,Gastroenteritis,44.579491,-68.780579,"Miles Lane School, Maine, United States",,,3
+1141,1/4/2017 5:58:00,Diarrhea,24,88,"Bengal, India",,,3
+1142,1/4/2017 5:45:00,Norovirus,53.034599,-0.5604,"England, United Kingdom",,,3
+1143,1/4/2017 5:18:00,Ross River Virus,-34.200001,142.149994,"Mildura, Victoria, Australia",,,1
+1144,1/4/2017 5:18:00,Ross River Virus,-36.050598,145.538147,"Moira, Victoria, Australia",,,1
+1145,1/4/2017 5:18:00,Ross River Virus,-36.01667,144.966675,"Barmah, Victoria, Australia",,,1
+1146,1/4/2017 5:12:00,Salmonella,39.96693,-97.556099,United States,,,3
+1147,1/3/2017 14:17:00,White nose syndrome,43.004601,-75.4981,"New York State, United States",,,4
+1148,1/4/2017 3:35:00,Measles,46.515999,6.63282,"Lausanne, Vaud, Switzerland",,,4
+1149,1/4/2017 4:59:00,Avian Influenza H5N8,49.10144,16.37752,"Ivancice, South Moravian, Czechia",,,4
+1150,1/4/2017 4:59:00,Avian Influenza H5N8,49.048931,16.311689,"Moravsky Krumlov, South Moravian, Czechia",,,4
+1151,1/4/2017 4:30:00,Avian Influenza,49.742859,15.33841,Czech Republic,,,4
+1152,1/4/2017 2:03:00,Ross River Virus,-36.9851,145.019501,"Victoria, Australia",314,,4
+1153,1/4/2017 2:03:00,Ross River Virus,-36.9851,145.019501,"Victoria, Australia",,,4
+1154,1/2/2017 0:00:00,Avian Influenza H5N8,45.218849,3.64843,"La Chapelle-Bertin, Auvergne-Rhône-Alpes, France",1,,5
+1155,1/4/2017 3:40:00,Norovirus,54.986439,-7.291445,"Altnagelvin Hospital, Derry, United Kingdom",,,3
+1156,1/4/2017 3:37:00,Norovirus,51.912159,-2.58852,"Ross-on-Wye, England, United Kingdom",,,3
+1157,1/4/2017 0:51:00,Zika virus,39.96693,-97.556099,United States,,,1
+1158,1/4/2017 0:10:00,Influenza,61.94614,93.57769,Russia,,,1
+1159,1/3/2017 18:00:00,HIV/AIDS,27.043949,18.023291,Libya,,,1
+1160,1/4/2017 1:33:00,Gastroenteritis,-17.83333,48.416672,"Ambatondrazaka, Toamasina, Madagascar",,,3
+1161,1/4/2017 2:23:00,Norovirus,10.857694,106.741158,"Thủ Đức District, Hồ Chí Minh City, Vietnam",,,3
+1162,1/4/2017 1:11:00,Dengue,22.88348,79.616203,India,,,3
+1163,1/4/2017 1:11:00,Chikungunya,22.88348,79.616203,India,,,3
+1164,1/4/2017 1:01:00,Influenza,54.950001,-1.41667,"South Tyneside, England, United Kingdom",,,3
+1165,1/2/2017 19:17:00,Dengue,5.34961,100.421478,"Seberang Prai, Penang, Malaysia",,,3
+1166,1/3/2017 0:00:00,Zika virus,6.49238,159.404221,Micronesia,,,3
+1167,1/3/2017 0:00:00,Dengue,5.325,162.981995,"Kosrae, Kosrae, Micronesia",12,,3
+1168,1/3/2017 0:00:00,Chikungunya,6.49238,159.404221,Micronesia,,,3
+1169,1/3/2017 0:00:00,Zika virus,5.325,162.981995,"Kosrae, Kosrae, Micronesia",23,,3
+1170,1/3/2017 0:00:00,Dengue,6.49238,159.404221,Micronesia,,,3
+1171,1/3/2017 22:46:00,Dengue,-32,-59,"Entre Rios, Argentina",273,,3
+1172,1/3/2017 22:46:00,Leptospirosis,-32,-59,"Entre Rios, Argentina",45,,3
+1173,1/3/2017 22:46:00,Psittacosis,-32,-59,"Entre Rios, Argentina",7,,3
+1174,1/3/2017 22:46:00,Chikungunya,-32,-59,"Entre Rios, Argentina",4,,3
+1175,1/3/2017 22:46:00,Hantavirus,-32,-59,"Entre Rios, Argentina",1,,3
+1176,1/3/2017 22:04:00,Dengue,-24.75806,-65.43457,"Salta, Argentina",5322,,3
+1177,1/3/2017 22:04:00,Zika virus,-24.75806,-65.43457,"Salta, Argentina",,,3
+1178,1/3/2017 23:16:00,Foodborne Illness,17.73333,83.26667,"Vishākhapatnam, Andhra Pradesh, India",,,1
+1179,1/3/2017 23:12:00,Dengue,13.35,74.75,"Udupi, Karnātaka, India",,,3
+1180,1/3/2017 23:08:00,Animal Die-off,22.256701,84.814598,"Rourkela, Orissa, India",,,1
+1181,1/3/2017 23:08:00,Animal Die-off,22.256701,84.814598,"Rourkela, Orissa, India",,,1
+1182,1/3/2017 23:08:00,Animal Die-off,21.5,85.5,"Keonjhar, Orissa, India",,,1
+1183,1/3/2017 23:08:00,Animal Die-off,21.5,85.5,"Keonjhar, Orissa, India",,,1
+1184,1/3/2017 22:16:00,Norovirus,-41.94928,172.691345,"Nelson Lakes National Park, New Zealand",30,,4
+1185,1/3/2017 16:01:00,E. coli,39.96693,-97.556099,United States,,,1
+1186,1/2/2017 10:08:00,Dengue,29.96702,69.385971,Pakistan,,,3
+1187,1/3/2017 21:26:00,Typhoid,-17.817778,31.044722,"Harare, Harare Province, Zimbabwe",,,3
+1188,1/3/2017 19:28:00,Influenza,47.466492,-121.817886,"King County, Washington, United States",,,3
+1189,1/3/2017 19:28:00,Influenza,47.033157,-122.117889,"Pierce County, Washington, United States",,,3
+1190,1/3/2017 19:28:00,Mumps,47.466492,-121.817886,"King County, Washington, United States",,,4
+1191,1/3/2017 18:59:00,Parvovirus,39.416553,-123.417786,"Mendocino County, California, United States",,,3
+1192,1/3/2017 18:31:00,Influenza,33.966759,-98.71701,"Wichita County, Texas, United States",,,3
+1193,1/3/2017 21:59:00,Foot and Mouth,28,94.5,"Arunachal Pradesh State, India",,,3
+1194,1/3/2017 21:43:00,Measles,39.96693,-97.556099,United States,,,3
+1195,1/3/2017 21:43:00,Measles,37.250198,-119.750298,"California, United States",,,3
+1196,1/3/2017 21:43:00,Measles,13.83153,30.04995,Sudan,,,3
+1197,1/3/2017 21:32:00,Cholera,15.90562,47.599972,Yemen,,,3
+1198,1/3/2017 19:46:00,Rabies,27.166998,-82.333153,"Sarasota County, Florida, United States",,,4
+1199,1/3/2017 19:46:00,Rabies,27.099777,-82.454262,"Venice, Florida, United States",,,4
+1200,1/3/2017 19:46:00,Rabies,27.04422,-82.235931,"North Port, Florida, United States",,,4
+1201,1/3/2017 19:39:00,Influenza,43.644001,-114.191902,"Idaho, United States",,3,3
+1202,1/3/2017 20:55:00,Avian Influenza H7N9,22.284,114.150002,Hong Kong,2,,4
+1203,1/3/2017 20:55:00,Avian Influenza H7N9,22.54554,114.068298,"Shenzhen, Guangdong Province, China",,,4
+1204,1/3/2017 20:55:00,Avian Influenza H7N9,21.322559,110.582909,"Zhongshan, Guangdong Province, China",,,4
+1205,1/3/2017 20:15:00,Waterborne Illness,-10.77311,-53.089821,Brazil,,,3
+1206,1/3/2017 20:15:00,Chikungunya,-10.77311,-53.089821,Brazil,,,3
+1207,1/3/2017 19:06:00,Zika virus,21.62117,-79.036346,Cuba,,,3
+1208,1/3/2017 19:06:00,Zika virus,22.82416,-82.354683,"Quivicán, Cuba",8,,3
+1209,1/3/2017 19:33:00,Norovirus,42.867001,-106.313004,"Casper, Wyoming, United States",100,,3
+1210,1/3/2017 19:30:00,Influenza,35.111214,-120.601967,"Arroyo Grande Care Center, Arroyo Grande, California, United States",20,2,3
+1211,1/3/2017 19:07:00,Influenza,36.748001,-119.772003,"Fresno, California, United States",,,3
+1212,1/3/2017 17:46:00,Environmental,30.350479,-89.152817,"Long Beach, Mississippi, United States",,,1
+1213,1/3/2017 19:58:00,"Helminths, miscellaneous",-34.660179,-58.367439,"Avellaneda, Buenos Aires, Argentina",59,,3
+1214,1/3/2017 11:54:00,Chikungunya,22.88348,79.616203,India,,,3
+1215,1/3/2017 11:54:00,Chikungunya,29.96702,69.385971,Pakistan,,,3
+1216,1/3/2017 11:54:00,Chikungunya,28.671301,77.211899,"National Capital Territory of Delhi, India",12221,17,3
+1217,1/3/2017 11:54:00,Chikungunya,24.866667,67.050003,"Karachi, Sindh, Pakistan",235,,3
+1218,1/3/2017 15:19:00,Chicken Pox,10.737707,106.729637,"District 7, Hồ Chí Minh City, Vietnam",31,,5
+1219,1/3/2017 18:47:00,Respiratory Syncytial Virus,35.666801,-81.233139,"Catawba County, North Carolina, United States",,,3
+1220,1/3/2017 18:37:00,Influenza,33.687698,-80.595802,"South Carolina, United States",2913,,3
+1221,1/3/2017 18:37:00,Influenza,34.930679,-81.983162,"Spartanburg County, South Carolina, United States",276,,3
+1222,1/3/2017 18:37:00,Influenza,35.050129,-81.599823,"Cherokee County, South Carolina, United States",109,,3
+1223,1/3/2017 18:37:00,Influenza,34.700134,-81.633156,"Union County, South Carolina, United States",2,,3
+1224,1/3/2017 9:14:00,Influenza,44.759628,4.562443,"Ardeche, France",,,3
+1225,1/3/2017 17:12:00,Dengue,18.894449,-70.484627,Dominican Republic,,38,3
+1226,1/3/2017 17:12:00,Leptospirosis,18.894449,-70.484627,Dominican Republic,,74,3
+1227,1/3/2017 17:12:00,Zika virus,18.894449,-70.484627,Dominican Republic,5241,,3
+1228,1/3/2017 17:12:00,Other Human Disease,18.894449,-70.484627,Dominican Republic,22,,3
+1229,1/3/2017 17:12:00,Guillain Barre,18.894449,-70.484627,Dominican Republic,285,,3
+1230,1/3/2017 17:27:00,Whooping Cough,44.496498,-90,"Wisconsin, United States",,,3
+1231,1/3/2017 17:27:00,Influenza,44.496498,-90,"Wisconsin, United States",,,3
+1232,1/3/2017 17:27:00,Influenza,45.666618,-89.500687,"Oneida County, Wisconsin, United States",191,,3
+1233,1/3/2017 17:26:00,Influenza,40.930099,-77.475601,"Pennsylvania, United States",4546,,3
+1234,1/3/2017 17:26:00,Influenza,40.62537,-75.874924,"Berks County, Pennsylvania, United States",297,,3
+1235,1/3/2017 17:25:00,Dengue,21.15,79.099998,"Nagpur, Mahārāshtra, India",,,4
+1236,1/3/2017 17:16:00,Influenza,45.2668,-75.749397,"Ottawa, Ontario, Canada",115,1,3
+1237,1/3/2017 17:12:00,Influenza,38.238098,-92.504898,"Missouri, United States",,,3
+1238,1/3/2017 16:58:00,Influenza,52.116787,-106.634521,"Saskatoon, Saskatchewan, Canada",,,3
+1239,1/3/2017 16:56:00,Influenza,33.687698,-80.595802,"South Carolina, United States",,,3
+1240,1/3/2017 16:19:00,Influenza,37.439899,-84.462898,"Kentucky, United States",,,3
+1241,1/3/2017 16:15:00,Influenza,32.7318,-86.7481,"Alabama, United States",,,3
+1242,1/3/2017 16:40:00,Avian Influenza H7N9,26.25,105.933296,"Guizhou Province, China",2,,5
+1243,1/3/2017 16:40:00,Avian Influenza H7N9,36.519981,103.891769,China,19,,5
+1244,1/3/2017 14:28:00,Other Plant Disease,40.650105,-73.949585,"Brooklyn, New York, United States",,,2
+1245,1/3/2017 16:14:00,Respiratory Illness,23.799999,-98.699997,"Estado de Tamaulipas, Mexico",,,3
+1246,1/3/2017 16:51:00,Avian Influenza,23.033333,72.616669,"Ahmedabad, Gujarat, India",,,3
+1247,1/3/2017 16:51:00,Avian Influenza,18.975,72.825798,"Mumbai, Maharashtra, India",,,3
+1248,1/3/2017 16:35:00,Influenza,35.525963,-82.94265,"Haywood Regional Medical Center, Clyde, North Carolina, United States",,,3
+1249,1/3/2017 16:14:00,Cryptosporidium,40.245899,-83.012703,"Ohio, United States",,,3
+1250,1/3/2017 16:13:00,Norovirus,46.490002,-80.990013,"Sudbury, Ontario, Canada",,,3
+1251,1/3/2017 13:59:00,Influenza,53.17638,-8.15058,Ireland,,,3
+1252,1/3/2017 13:59:00,Norovirus,53.17638,-8.15058,Ireland,,,3
+1253,1/3/2017 12:59:00,Salmonella,38.9935,-75.4981,"Delaware, United States",,,1
+1254,1/3/2017 12:48:00,Meningitis,40.273701,-76.884422,"Harrisburg, Pennsylvania, United States",,1,4
+1255,1/3/2017 11:49:00,Polio,5.18502,8.13314,"Odukpani, Cross River, Nigeria",1,,5
+1256,1/3/2017 16:46:00,Other Human Disease,39.96693,-97.556099,United States,,,1
+1257,1/3/2017 16:45:00,Other Animal Disease,-27.710199,153.303482,"Logan River, Queensland, Australia",,,1
+1258,1/3/2017 14:31:00,Gastroenteritis,39.92889,116.388336,"Beijing, China",,,4
+1259,1/3/2017 14:31:00,Norovirus,39.92889,116.388336,"Beijing, China",,,3
+1260,1/3/2017 14:31:00,Influenza,39.92889,116.388336,"Beijing, China",,,3
+1261,1/3/2017 14:31:00,Tuberculosis,39.92889,116.388336,"Beijing, China",,,3
+1262,1/3/2017 14:31:00,Syphilis,39.92889,116.388336,"Beijing, China",,,3
+1263,1/3/2017 14:31:00,Dysentery,39.92889,116.388336,"Beijing, China",,,4
+1264,1/3/2017 14:31:00,Scarlet Fever,39.92889,116.388336,"Beijing, China",,,3
+1265,1/3/2017 14:31:00,Diarrhea,39.92889,116.388336,"Beijing, China",,,4
+1266,1/3/2017 14:31:00,"Hand, Foot and Mouth Disease",39.92889,116.388336,"Beijing, China",,,3
+1267,1/3/2017 14:32:00,Influenza,36.250519,-121.251587,"Monterey County, California, United States",,1,3
+1268,1/3/2017 14:28:00,Chikungunya,29.96702,69.385971,Pakistan,369,,4
+1269,1/3/2017 12:18:00,Influenza,44.496498,-90,"Wisconsin, United States",161,,3
+1270,1/3/2017 12:18:00,Influenza,43.750542,-88.466766,"Fond du Lac County, Wisconsin, United States",8,,3
+1271,1/3/2017 14:37:00,Dengue,11.74183,122.878708,Philippines,,,3
+1272,1/3/2017 14:37:00,Dengue,2.5746,113.191803,Malaysia,,,3
+1273,1/3/2017 14:37:00,Dengue,-16.255051,167.718155,Vanuatu,,,3
+1274,1/3/2017 14:37:00,Dengue,12.27793,-1.74014,Burkina Faso,,,3
+1275,1/3/2017 14:37:00,Dengue,22.88348,79.616203,India,,,3
+1276,1/3/2017 14:37:00,Dengue,29.96702,69.385971,Pakistan,,,3
+1277,1/3/2017 14:37:00,Dengue,7.60809,80.704727,Sri Lanka,,,3
+1278,1/3/2017 14:37:00,Dengue,-8.91822,159.634323,Solomon Islands,,,3
+1279,1/3/2017 14:37:00,Dengue,-6.35435,52.229939,Seychelles,,,3
+1280,1/3/2017 11:00:00,Cholera,15.90562,47.599972,Yemen,,,1
+1281,1/3/2017 10:41:00,Influenza,47.333332,7.333333,"Jura, Switzerland",,,3
+1282,1/3/2017 10:41:00,Diarrhea,47.333332,7.333333,"Jura, Switzerland",,,3
+1283,1/3/2017 13:52:00,Pneumonia,39.266201,-116.762703,"Nevada, United States",,,3
+1284,1/3/2017 13:20:00,Influenza,42.000301,-93.515701,"Iowa, United States",,2,4
+1285,1/3/2017 13:20:00,Norovirus,42.000301,-93.515701,"Iowa, United States",,,4
+1286,1/3/2017 13:19:00,Waterborne Illness,43.999462,-86.279198,"Mason, Michigan, United States",,,1
+1287,1/3/2017 13:40:00,Avian Influenza,36.615501,127.726997,South Korea,,,3
+1288,1/3/2017 13:40:00,Avian Influenza,36.615501,127.726997,South Korea,,,3
+1289,1/3/2017 13:02:00,Influenza,52.175949,0.14492,"Addenbrooke's Hospital, Cambridge, England, United Kingdom",,,3
+1290,1/3/2017 12:39:00,Influenza,37.250198,-119.750298,"California, United States",,3,3
+1291,1/3/2017 12:35:00,Influenza,37.648998,-78.3545,"Virginia, United States",,,3
+1292,1/3/2017 11:39:00,Norovirus,52.583633,-1.996894,"Walsall Manor Hospital , Walsall, UK",,,3
+1293,1/3/2017 11:17:00,Dengue,19.3318,-96.657799,"Estado de Veracruz, Mexico",,,3
+1294,1/3/2017 11:29:00,Influenza,53.17638,-8.15058,Ireland,,,3
+1295,1/3/2017 9:43:00,Influenza,35.746498,-86.264702,"Tennessee, United States",,,3
+1296,1/3/2017 12:37:00,Dengue,-23.02639,-45.555279,"Taubaté, São Paulo, Brazil",3300,,3
+1297,1/3/2017 12:37:00,Environmental,-23.02639,-45.555279,"Taubaté, São Paulo, Brazil",,,3
+1298,1/3/2017 12:27:00,Leishmaniasis,-20.75111,-51.678329,"Três Lagoas, Mato Grosso do Sul, Brazil",12,,3
+1299,1/3/2017 12:27:00,Leishmaniasis,-24.174606,-60.214706,"Três Lagoas, Estado de Mato Grosso do Sul, Brazil",12,,3
+1300,1/3/2017 11:42:00,Avian Influenza H5N8,51.833332,-4.166667,"Carmarthenshire, Wales, United Kingdom",,,4
+1301,1/3/2017 11:35:00,Measles,34.733318,-120.034309,"Santa Barbara County, California, United States",,,3
+1302,1/3/2017 11:35:00,Measles,34.366665,-118.200905,"Los Angeles County, California, United States",,,3
+1303,1/3/2017 11:35:00,Measles,34.46666,-119.017601,"Ventura County, California, United States",,,3
+1304,1/3/2017 10:11:00,Other Human Disease,-8.28333,-35.976109,"Caruaru, Pernambuco, Brazil",,,3
+1305,1/3/2017 10:57:00,Avian Influenza H5N8,51.10656,10.39365,Germany,,,1
+1306,1/3/2017 10:41:00,Norovirus,52.231659,0.70917,"West Suffolk Hospitals NHS Trust, England, United Kingdom",2,,3
+1307,1/3/2017 10:13:00,Avian Influenza,20.183331,85.616669,"Khurda, Orissa, India",,,3
+1308,1/3/2017 10:13:00,Avian Influenza,22.256701,84.814598,"Rourkela, Orissa, India",,,3
+1309,1/3/2017 8:55:00,Influenza,52.66806,-7.259492,"St Luke's General Hospital, Friarsinch, County Kilkenny, Ireland",,,3
+1310,1/3/2017 8:54:00,Avian Influenza H5N8,51.833332,-2.166667,"Gloucestershire, England, United Kingdom",,,3
+1311,1/3/2017 6:29:00,Botulism,52.24926,5.60342,Netherlands,,,3
+1312,1/3/2017 6:29:00,Botulism,40.22683,-3.64957,Spain,,,3
+1313,1/3/2017 7:39:00,Gastroenteritis,36.098541,138.478607,Japan,,,1
+1314,1/3/2017 7:39:00,Gastroenteritis,36.615501,127.726997,South Korea,,,1
+1315,1/3/2017 7:39:00,Gastroenteritis,54.470001,-2.0215,United Kingdom,,,1
+1316,1/3/2017 7:39:00,Gastroenteritis,39.92889,116.388336,"Beijing, China",,,1
+1317,1/3/2017 7:39:00,Gastroenteritis,23.873001,121.016998,Taiwan,,,1
+1318,1/3/2017 7:39:00,Norovirus,23.873001,121.016998,Taiwan,,,1
+1319,1/3/2017 7:39:00,Avian Influenza H7N9,26.25,105.933296,"Guizhou Province, China",,,1
+1320,1/3/2017 11:19:00,Avian Influenza H7N9,27.9944,116.015602,"Jiangxi Province, China",,,3
+1321,1/3/2017 11:19:00,Avian Influenza H7N9,29.294701,117.207893,"Jingdezhen, Jiangxi Province, China",1,,3
+1322,1/2/2017 11:18:00,Food-related toxin,22.341867,114.15406,"Caritas Medical Centre, Cheung Sha Wan, Hong Kong",,,3
+1323,1/3/2017 0:00:00,Dengue,2,103.5,"Johor, Malaysia",10569,,3
+1324,1/3/2017 0:00:00,Dengue,6,100.666672,"Kedah, Malaysia",984,,3
+1325,1/3/2017 0:00:00,Dengue,5.33333,102,"Kelantan, Malaysia",6067,,3
+1326,1/3/2017 0:00:00,Dengue,2.25,102.25,"Melaka, Malaysia",1962,,3
+1327,1/3/2017 0:00:00,Dengue,2.75,102.166672,"Negeri Sembilan, Malaysia",2825,,3
+1328,1/3/2017 0:00:00,Dengue,3.5,102.75,"Pahang, Malaysia",3021,,3
+1329,1/3/2017 0:00:00,Dengue,4.801436,101.161736,"Perak, Malaysia",3711,,3
+1330,1/3/2017 0:00:00,Dengue,6.5,100.25,"Perlis, Malaysia",180,,3
+1331,1/3/2017 0:00:00,Dengue,5.37677,100.258476,"Pulau Pinang, Malaysia",2538,,3
+1332,1/3/2017 0:00:00,Dengue,5.348619,117.131157,"Sabah, Malaysia",3629,,3
+1333,1/3/2017 0:00:00,Dengue,2.557428,113.001198,"Sarawak, Malaysia",2729,,3
+1334,1/3/2017 0:00:00,Dengue,3.509247,101.524803,"Selangor, Malaysia",50798,,3
+1335,1/3/2017 0:00:00,Dengue,5.093634,102.989616,"Terengganu, Malaysia",1994,,3
+1336,1/3/2017 0:00:00,Dengue,3.14309,101.686531,"Federal Territory of Kuala Lumpur, Malaysia",8019,,3
+1337,1/3/2017 0:00:00,Dengue,5.33333,115.199997,"Labuan, Malaysia",13,,3
+1338,1/3/2017 0:00:00,Dengue,2.925641,101.695442,"Federal Territory of Putrajaya, Malaysia",516,,3
+1339,1/3/2017 0:00:00,Dengue,2.5746,113.191803,Malaysia,99555,,3
+1340,1/2/2017 11:55:00,Diarrhea,29.5734,106.567299,"Chongqing, China",,,4
+1341,1/2/2017 11:55:00,Norovirus,29.5734,106.567299,"Chongqing, China",,,3
+1342,1/3/2017 8:42:00,Dengue,-20.819719,-49.37944,"São José do Rio Preto, São Paulo, Brazil",16216,,4
+1343,1/3/2017 5:49:00,Avian Influenza H5N8,53.400002,-3.083333,"Merseyside, England, United Kingdom",,,3
+1344,1/3/2017 2:48:00,Influenza,53.17638,-8.15058,Ireland,,1,3
+1345,1/3/2017 2:48:00,Respiratory Illness,53.17638,-8.15058,Ireland,,,3
+1346,1/3/2017 9:30:00,Avian Influenza H7N9,22.284,114.150002,Hong Kong,,,3
+1347,1/3/2017 6:56:00,Other Animal Disease,60.716099,8.7451,Norway,,,3
+1348,1/3/2017 6:34:00,Whooping Cough,45.666618,-89.500687,"Oneida County, Wisconsin, United States",39,,3
+1349,1/3/2017 5:19:00,Meningitis - Neisseria,-27.5,153.016602,"Brisbane, Queensland, Australia",3,,5
+1350,1/3/2017 6:14:00,Environmental,51.10656,10.39365,Germany,,,3
+1351,1/3/2017 5:35:00,Dengue,19.299999,-88.505898,"Estado de Quintana Roo, Mexico",,2,4
+1352,1/3/2017 6:39:00,Scarlet Fever,53.034599,-0.5604,"England, United Kingdom",,,3
+1353,1/3/2017 6:39:00,Tuberculosis,53.034599,-0.5604,"England, United Kingdom",,,3
+1354,1/3/2017 6:39:00,Whooping Cough,53.034599,-0.5604,"England, United Kingdom",,,4
+1355,1/3/2017 5:58:00,Chikungunya,22.646111,88.340279,"Bali, Bengal, India",,,4
+1356,1/3/2017 5:58:00,Chikungunya,23.873001,121.016998,Taiwan,,,4
+1357,1/3/2017 5:20:00,Avian Influenza,36.615501,127.726997,South Korea,,,4
+1358,1/3/2017 5:25:00,Poisoning,49.01709,31.38711,Ukraine,,,3
+1359,1/3/2017 5:20:00,Influenza,18.94161,-72.679459,Haiti,,,1
+1360,1/3/2017 5:20:00,Zika virus,61.94614,93.57769,Russia,,,1
+1361,1/3/2017 4:57:00,Avian Influenza H5N8,53.034599,-0.5604,"England, United Kingdom",,,3
+1362,1/3/2017 4:57:00,Avian Influenza H5N8,56.5,-4,"Scotland, United Kingdom",,,3
+1363,1/3/2017 2:43:00,Poisoning,22.82,88.199997,"West Bengal State, India",,,3
+1364,1/3/2017 1:48:00,Waterborne Illness,39.266201,-111.752998,"Utah, United States",,,1
+1365,1/3/2017 1:59:00,Influenza,20.5093,-99.008797,"Estado de Hidalgo, Mexico",,,1
+1366,1/3/2017 4:25:00,Norovirus,23.873001,121.016998,Taiwan,,,1
+1367,1/3/2017 4:07:00,Influenza,53.17638,-8.15058,Ireland,,,4
+1368,1/2/2017 21:15:00,Pneumonia,11,78,"Tamil Nadu State, India",,,3
+1369,1/2/2017 21:44:00,Chicken Pox,-39.950001,175.016663,"Manawatu-Wanganui, New Zealand",,,2
+1370,1/3/2017 2:38:00,Avian Influenza,36.519981,103.891769,China,,,3
+1371,1/3/2017 2:07:00,Avian Influenza,22.73333,120.566673,"Yanpu Town, Pingtung County, Taiwan",,,3
+1372,1/3/2017 2:07:00,Avian Influenza H5N2,22.73333,120.566673,"Yanpu Town, Pingtung County, Taiwan",,,3
+1373,1/3/2017 2:07:00,Avian Influenza H5N8,22.73333,120.566673,"Yanpu Town, Pingtung County, Taiwan",,,3
+1374,1/2/2017 8:04:00,Malaria,24.26667,87.25,"Dumka, Jharkhand, India",,,3
+1375,1/3/2017 1:44:00,Avian Influenza,36.615501,127.726997,South Korea,,,3
+1376,1/2/2017 20:02:00,Dengue,-24,-51,"Paraná, Brazil",,,3
+1377,1/3/2017 1:52:00,Avian Influenza H5N6,36.615501,127.726997,South Korea,,,4
+1378,1/3/2017 0:16:00,Zika virus,16.5098,-92.504898,"Estado de Chiapas, Mexico",,,2
+1379,1/3/2017 0:16:00,Dengue,16.5098,-92.504898,"Estado de Chiapas, Mexico",,,2
+1380,1/3/2017 1:12:00,Leishmaniasis,33.350994,44.437061,"Baghdad Governorate, Iraq",,,3
+1381,1/2/2017 10:49:00,Meningitis,44.55838,4.75094,"Montélimar, Auvergne-Rhône-Alpes, France",,1,3
+1382,1/2/2017 19:34:00,Avian Influenza H5N8,52.334167,-6.4575,"Wexford, County Wexford, Ireland",,,3
+1383,1/2/2017 23:03:00,Animal Die-off,20.752399,85.001404,"Odisha State, India",,,1
+1384,1/2/2017 22:52:00,Avian Influenza H7N9,26.25,105.933296,"Guizhou Province, China",,,5
+1385,1/2/2017 21:10:00,Other Plant Disease,30.996401,76.003403,"Punjab State, India",,,2
+1386,1/2/2017 22:57:00,Avian Influenza H7N9,31.2409,121.464798,"Shanghai, China",,,3
+1387,1/2/2017 22:57:00,Avian Influenza H7N9,22.284,114.150002,Hong Kong,,,3
+1388,1/2/2017 22:57:00,Avian Influenza H7N9,27.9944,116.015602,"Jiangxi Province, China",,,3
+1389,1/2/2017 20:18:00,Equine Herpes Virus,29.954647,-90.075073,"New Orleans, Louisiana, United States",4,,4
+1390,1/2/2017 21:14:00,Avian Influenza H7N9,22.284,114.150002,Hong Kong,2,,4
+1391,1/2/2017 19:48:00,Norovirus,35.227085,-80.843124,"Charlotte, North Carolina, United States",,,3
+1392,1/2/2017 16:33:00,Foot and Mouth,28,94.5,"Arunachal Pradesh State, India",,6,3
+1393,1/2/2017 20:00:00,Measles,34.366665,-118.200905,"Los Angeles County, California, United States",,,4
+1394,1/2/2017 13:02:00,MRSA,33.990841,-118.460083,"Venice, California, United States",,,4
+1395,1/2/2017 20:13:00,Bovine TB,40.0107,-86.264702,"Indiana, United States",,,1
+1396,1/2/2017 20:13:00,Bovine TB,40.930099,-77.475601,"Pennsylvania, United States",,,1
+1397,1/2/2017 20:01:00,Avian Influenza H7N9,27.9944,116.015602,"Jiangxi Province, China",,,3
+1398,1/2/2017 18:13:00,Zika virus,23.95046,-102.53289,Mexico,6921,,3
+1399,1/2/2017 18:13:00,Chikungunya,23.95046,-102.53289,Mexico,722,,3
+1400,1/2/2017 18:13:00,Dengue,23.95046,-102.53289,Mexico,16835,,3
+1401,1/2/2017 19:57:00,Dengue,13.35,74.75,"Udupi, Karnātaka, India",,,4
+1402,1/2/2017 13:49:00,Malaria,26.700001,92.333336,"Orang, Assam, India",,,4
+1403,1/2/2017 19:57:00,Dengue,-19.920834,-43.937778,"Belo Horizonte, Minas Gerais, Brazil",154765,61,4
+1404,1/2/2017 19:57:00,Influenza H3N2,39.60099,-8.06274,Portugal,,,4
+1405,1/2/2017 19:57:00,Influenza,39.60099,-8.06274,Portugal,,,4
+1406,1/2/2017 19:57:00,Influenza H1N1,39.60099,-8.06274,Portugal,,,4
+1407,1/2/2017 19:57:00,Environmental,39.60099,-8.06274,Portugal,,,4
+1408,1/2/2017 19:23:00,Avian Influenza,20.752399,85.001404,"Odisha State, India",,,3
+1409,1/2/2017 17:36:00,Chikungunya,23.033333,72.616669,"Ahmedabad, Gujarat, India",,,3
+1410,1/2/2017 17:36:00,Dengue,23.033333,72.616669,"Ahmedabad, Gujarat, India",,,3
+1411,1/2/2017 15:18:00,Waterborne Illness,36.432011,-93.014343,"Lead Hill, Arkansas, United States",,,1
+1412,1/2/2017 15:01:00,Influenza,42.79578,12.07174,Italy,,,3
+1413,1/2/2017 15:01:00,Influenza,39.068539,22.95974,Greece,,,3
+1414,1/2/2017 16:44:00,Avian Influenza,52.849998,8.033333,"Cloppenburg, Lower Saxony, Germany",,,3
+1415,1/2/2017 16:30:00,Dengue,-20.44278,-54.646389,"Campo Grande, Mato Grosso do Sul, Brazil",,,3
+1416,1/2/2017 16:30:00,Chikungunya,-20.44278,-54.646389,"Campo Grande, Mato Grosso do Sul, Brazil",,,3
+1417,1/2/2017 16:30:00,Zika virus,-20.44278,-54.646389,"Campo Grande, Mato Grosso do Sul, Brazil",,,3
+1418,1/2/2017 15:02:00,Avian Influenza H5N8,43.994495,3.672119,"Deux-Sèvres, Nouvelle-Aquitaine, France",,,3
+1419,1/2/2017 16:07:00,Scabies,21.516939,39.21917,"Jeddah, Makkah Province, Saudi Arabia",,,1
+1420,1/2/2017 16:41:00,Cholera,-6.66999,30.48127,"Karema, Katavi, Tanzania",,,3
+1421,1/2/2017 15:32:00,Dengue,28.632244,77.220726,"New Delhi, Delhi, India",,,3
+1422,1/2/2017 8:37:00,Dengue,-31.4,-58.033333,"Concordia, Entre Ríos, Argentina",,,3
+1423,1/2/2017 14:23:00,Waterborne Illness,-37.822899,144.975494,"Melbourne, Victoria, Australia",,,1
+1424,1/2/2017 15:58:00,MERS,24.122999,44.546249,Saudi Arabia,,,3
+1425,1/2/2017 12:07:00,Avian Influenza H7N9,31.2409,121.464798,"Shanghai, China",,,4
+1426,1/2/2017 14:32:00,Citrus Greening,33.858349,-118.064789,"Cerritos, California, United States",,,2
+1427,1/2/2017 14:14:00,Avian Influenza,22.256701,84.814598,"Rourkela, Orissa, India",,,3
+1428,1/2/2017 14:14:00,Avian Influenza,21.5,85.5,"Keonjhar, Orissa, India",,,3
+1429,1/2/2017 14:14:00,Avian Influenza,22.256701,84.814598,"Rourkela, Orissa, India",,,3
+1430,1/2/2017 14:06:00,Equine Herpes Virus,29.954647,-90.075073,"New Orleans, Louisiana, United States",,,4
+1431,1/2/2017 13:59:00,Avian Influenza H5N8,46.564499,2.55195,France,,,4
+1432,1/2/2017 13:59:00,Avian Influenza H5N8,43.994495,3.672119,"Deux-Sèvres, Nouvelle-Aquitaine, France",,,4
+1433,1/2/2017 13:05:00,Gastroenteritis,53.911484,-122.764481,"University Hospital of Northern British Columbia, Prince George, British Columbia, Canada",,,3
+1434,1/2/2017 12:56:00,Waterborne Illness,37.7645,-89.335091,"Murphysboro, Illinois, United States",,,1
+1435,1/2/2017 11:29:00,Influenza,49.166336,-123.936012,"Nanaimo, British Columbia, Canada",,,3
+1436,1/2/2017 11:29:00,Influenza H3N2,49.166336,-123.936012,"Nanaimo, British Columbia, Canada",,,3
+1437,1/2/2017 10:49:00,Undiagnosed,19.16667,83.416672,"Rayagada, Odisha, India",20,,3
+1438,1/2/2017 12:18:00,Polio,29.96702,69.385971,Pakistan,,,5
+1439,1/2/2017 12:17:00,Dengue,26.112062,68.887901,"Sindh, Pakistan",2453,,4
+1440,1/2/2017 12:03:00,Zika virus,32.7318,-89.736397,"Mississippi, United States",23,,3
+1441,1/2/2017 12:03:00,West Nile Virus,32.7318,-89.736397,"Mississippi, United States",42,,3
+1442,1/2/2017 12:06:00,Chikungunya,33.718151,73.060547,"Islamabad Capital Territory, Pakistan",,,3
+1443,1/2/2017 10:59:00,Avian Influenza,52.849998,8.033333,"Cloppenburg, Lower Saxony, Germany",,,3
+1444,1/2/2017 9:59:00,Dengue,24,88,"Bengal, India",,,3
+1445,1/2/2017 10:59:00,Avian Influenza H5N8,44.25,2.5,"Aveyron, Midi-Pyrénées, France",,,3
+1446,1/2/2017 10:59:00,Avian Influenza H5N8,45.166672,0.83333,"Dordogne, Aquitaine, France",,,3
+1447,1/2/2017 11:46:00,Avian Influenza,20.49918,86.42627,"Kendrapara, Orissa, India",,,3
+1448,1/2/2017 11:39:00,Malaria,12.30485,76.290497,"Hunsur, Karnataka, India",,,3
+1449,1/2/2017 11:39:00,Malaria,13.5,76,"Karnataka State, India",,,3
+1450,1/2/2017 0:00:00,Dengue,2,103.5,"Johor, Malaysia",10569,,3
+1451,1/2/2017 0:00:00,Dengue,6,100.666672,"Kedah, Malaysia",984,,3
+1452,1/2/2017 0:00:00,Dengue,5.33333,102,"Kelantan, Malaysia",6067,,3
+1453,1/2/2017 0:00:00,Dengue,2.25,102.25,"Melaka, Malaysia",1962,,3
+1454,1/2/2017 0:00:00,Dengue,2.75,102.166672,"Negeri Sembilan, Malaysia",2825,,3
+1455,1/2/2017 0:00:00,Dengue,3.5,102.75,"Pahang, Malaysia",3021,,3
+1456,1/2/2017 0:00:00,Dengue,4.801436,101.161736,"Perak, Malaysia",3711,,3
+1457,1/2/2017 0:00:00,Dengue,6.5,100.25,"Perlis, Malaysia",180,,3
+1458,1/2/2017 0:00:00,Dengue,5.37677,100.258476,"Pulau Pinang, Malaysia",2538,,3
+1459,1/2/2017 0:00:00,Dengue,5.348619,117.131157,"Sabah, Malaysia",3629,,3
+1460,1/2/2017 0:00:00,Dengue,2.557428,113.001198,"Sarawak, Malaysia",2729,,3
+1461,1/2/2017 0:00:00,Dengue,3.509247,101.524803,"Selangor, Malaysia",50798,,3
+1462,1/2/2017 0:00:00,Dengue,5.093634,102.989616,"Terengganu, Malaysia",1994,,3
+1463,1/2/2017 0:00:00,Dengue,3.14309,101.686531,"Federal Territory of Kuala Lumpur, Malaysia",8019,,3
+1464,1/2/2017 0:00:00,Dengue,5.33333,115.199997,"Labuan, Malaysia",13,,3
+1465,1/2/2017 0:00:00,Dengue,2.925641,101.695442,"Federal Territory of Putrajaya, Malaysia",516,,3
+1466,1/2/2017 0:00:00,Dengue,2.5746,113.191803,Malaysia,99555,,3
+1467,1/2/2017 8:04:00,Malaria,24.26667,87.25,"Dumka, Jharkhand, India",,,3
+1468,1/2/2017 9:55:00,Whooping Cough,45.636021,-89.426552,"Rhinelander, Wisconsin, United States",,,4
+1469,1/2/2017 9:55:00,Whooping Cough,45.666618,-89.500687,"Oneida County, Wisconsin, United States",,,4
+1470,1/2/2017 9:55:00,Whooping Cough,46.06662,-89.466812,"Vilas County, Wisconsin, United States",,,4
+1471,1/2/2017 10:47:00,Chikungunya,33.718151,73.060547,"Islamabad Capital Territory, Pakistan",,,3
+1472,1/2/2017 7:26:00,Malaria,23.83333,76.75,"Rajgarh, Madhya Pradesh, India",,,3
+1473,1/2/2017 7:26:00,Tuberculosis,23.83333,76.75,"Rajgarh, Madhya Pradesh, India",,,1
+1474,1/2/2017 9:45:00,Tuberculosis,39.96693,-97.556099,United States,,,3
+1475,1/2/2017 8:41:00,Avian Influenza H7N9,36.519981,103.891769,China,2,1,4
+1476,1/2/2017 8:41:00,Avian Influenza H7N9,22.54554,114.068298,"Shenzhen, Guangdong Province, China",,,4
+1477,1/2/2017 8:41:00,Avian Influenza H7N9,21.322559,110.582909,"Zhongshan, Guangdong Province, China",,,4
+1478,1/2/2017 9:35:00,Influenza H3N2,55.429001,-101.865303,Canada,,,1
+1479,1/2/2017 9:06:00,Rabies,-14.050453,-73.087746,"Apurímac Region, Peru",,,3
+1480,1/2/2017 6:44:00,Foodborne Illness,42.730759,1.953965,"Ascou-Pailheres, Ascou, France",,1,3
+1481,1/2/2017 6:44:00,Undiagnosed,42.72028,1.86089,"Ascou, Occitania, France",,1,3
+1482,1/2/2017 7:02:00,Measles,10.56852,31.541389,"Nuba, Southern Kordofan, Sudan",100,20,4
+1483,1/2/2017 6:12:00,Dengue,-15.77972,-47.929722,"Distrito Federal, Brazil",19957,,3
+1484,1/2/2017 6:23:00,Other Animal Disease,-27.710199,153.303482,"Logan River, Queensland, Australia",,,4
+1485,1/2/2017 4:48:00,Influenza,43.004601,-75.4981,"New York State, United States",,,3
+1486,1/2/2017 4:23:00,Parvovirus,51.789665,1.155968,"Clacton-on-Sea, Essex, England, United Kingdom",,,4
+1487,1/2/2017 4:14:00,Avian Influenza H5N8,52,10,"Lower Saxony, Germany",,,3
+1488,1/2/2017 2:32:00,Avian Influenza,20.303368,85.814064,"Salia Sahi, Bhubaneswar, Odisha, India",,,4
+1489,1/2/2017 1:49:00,Gastroenteritis,-37.822899,144.975494,"Melbourne, Victoria, Australia",,,1
+1490,1/1/2017 7:09:00,Influenza,34.997952,-78.323334,"Clinton, North Carolina, United States",55,,3
+1491,1/2/2017 0:19:00,Malaria,25.75,81.75,"Pratapgarh, Uttar Pradesh, India",,,3
+1492,1/2/2017 0:19:00,Malaria,24.571167,73.691826,"Udaipur, Rājasthān, India",,,3
+1493,1/2/2017 0:19:00,Malaria,25.183331,75.833328,"Kota, Rajasthan, India",,,3
+1494,1/2/2017 0:19:00,Malaria,27.21731,77.490089,"Bharatpur, Rajasthan, India",,,3
+1495,1/2/2017 0:19:00,Malaria,23.54109,74.442497,"Banswara, Rajasthan, India",,,3
+1496,1/1/2017 23:04:00,Avian Influenza H7N9,27.9944,116.015602,"Jiangxi Province, China",,,3
+1497,1/1/2017 22:08:00,Diphtheria,47.592899,14.14019,Austria,,,3
+1498,1/1/2017 22:08:00,Diphtheria,7.60809,80.704727,Sri Lanka,,,3
+1499,1/1/2017 20:03:00,Equine Herpes Virus,29.954647,-90.075073,"New Orleans, Louisiana, United States",3,,4
+1500,1/1/2017 21:48:00,Equine Herpes Virus,29.954647,-90.075073,"New Orleans, Louisiana, United States",,,3
