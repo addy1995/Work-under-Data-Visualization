@@ -2,7 +2,7 @@
 
 <h2>Python Version - 3.5<h2>
 
-<h2>To run the python script(brainpan_task1.py), there are some modules required.<h2>
+<h3>To run the python script(brainpan_task1.py), there are some modules required.</h3>
 <ul>
 <li>Matplotlib 2.0.0</li>
 <li>Numpy 1.12.0</li>
@@ -10,7 +10,7 @@
 <li>tkinter</li>
 <li>csv</li>
 </ul>
-<h2>Note - Keep the .csv file and script in same folder.<h2>
+<h3>Note - Keep the .csv file and script in same folder.<h3>
 
 <h3>The reason for choosing these five visualization techniques are-</h3>
 <ul>
