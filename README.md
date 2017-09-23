@@ -2,7 +2,7 @@
 
 <h2>Python Version - 3.5<h2>
 
-<h3>To run the python script(brainpan_task1.py), there are some modules required.</h3>
+<h3>To run the python script(Data Visualization.py), there are some modules required.</h3>
 <ul>
 <li>Matplotlib 2.0.0</li>
 <li>Numpy 1.12.0</li>
