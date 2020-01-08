@@ -1,7 +1,7 @@
 # Work-under-Data-Visualization
 
 <h2>Python Version - 3.5<h2>
-
+A task was given by Brainpan Innovations Private Limited to use Data Visualization techniques on the provided Information on Diseases. It was a part of their recruitment process to select interns at their Company.
 <h3>To run the python script(Data Visualization.py), there are some modules required.</h3>
 <ul>
 <li>Matplotlib 2.0.0</li>
